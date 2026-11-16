@@ -1,0 +1,19 @@
+﻿Tipo_actividad_id,Nombre_tipo,Descripcion_tipo
+T001,Conferencia,Actividad de tipo Conferencia
+T002,Taller,Actividad de tipo Taller
+T003,Foro,Actividad de tipo Foro
+T004,Concurso,Actividad de tipo Concurso
+T005,Ponencia,Actividad de tipo Ponencia
+T006,Presentación,Actividad de tipo Presentación
+T007,Curso,Actividad de tipo Curso
+T008,Deportiva,Actividad de tipo Deportiva
+T009,Cultural,Actividad de tipo Cultural
+T010,Otra,Actividad de tipo Otra
+T011,Conferencia magistral,Actividad de tipo Conferencia magistral
+T012,Visita de Campo,Actividad de tipo Visita de Campo
+T013,Panel,Actividad de tipo Panel
+T014,Exposicion,Actividad de tipo Exposicion
+T015,Cátedra Patrimonial,Actividad de tipo Cátedra Patrimonial
+T016,Mesa de diálogo,Actividad de tipo Mesa de diálogo
+T017,Capacitación,Actividad de tipo Capacitación
+T018,FOSEEI,Un foro para difundir temas de tecnología a estudiantes de licenciatura y posgrado

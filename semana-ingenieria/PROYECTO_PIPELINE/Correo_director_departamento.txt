@@ -1,0 +1,36 @@
+✉️Correo del director del departamento de TI
+Solicitud de propuesta integral para la gestión de información de eventos institucionales
+Estimado equipo:
+Después de la experiencia de la 32.ª Semana de Ingeniería, consideramos necesario revisar de manera integral la forma en que se genera, administra, actualiza y pone a disposición de la comunidad universitaria la información relacionada con un evento de esta magnitud.
+La edición de este año contempló más de 200 actividades y, ante las condiciones meteorológicas, una parte importante de la programación tuvo que trasladarse a modalidad virtual. Esta situación puso de manifiesto diversas dificultades en la gestión y comunicación de la información.
+Desde la perspectiva de los usuarios, uno de los principales problemas fue la dificultad para determinar dónde encontrar la información oficial y cuál era la información vigente. La programación podía encontrarse a través de distintos medios y sitios, incluyendo la página institucional, publicaciones en redes sociales y enlaces hacia otros recursos digitales.
+Asimismo, se presentaron situaciones como las siguientes:
+El archivo utilizado como programa maestro tenía restricciones de acceso que dificultaban su consulta y reutilización por parte de otros usuarios.
+La información disponible para las actividades no siempre permitía conocer de manera sencilla datos relevantes como cupo, número de personas registradas, campus o departamento responsable.
+Algunos procesos requerían acudir directamente a las coordinaciones correspondientes para obtener o confirmar información.
+Ante el cambio de actividades presenciales a modalidad virtual, resultó difícil identificar rápidamente cuáles actividades habían cambiado, dónde se encontraba la información actualizada y cuál era el enlace correcto para acceder a ellas.
+Se presentaron enlaces que dirigían a reuniones distintas de las correspondientes a la actividad o que dejaron de funcionar.
+Algunas actividades contaban con varias sesiones o reuniones, lo que dificultaba distinguir entre el evento, sus diferentes sesiones y los enlaces asociados.
+La presentación de horarios y actividades simultáneas no siempre resultaba suficientemente clara para que un usuario pudiera planear su participación.
+Los cambios realizados durante el evento podían generar discrepancias entre la información publicada en diferentes medios.
+El problema, por lo tanto, no se limita a la organización de un archivo. Se trata de un problema de gestión integral de información que afecta tanto a las personas responsables de organizar el evento como a quienes intentan utilizar la información para participar en él.
+Consideramos necesario desarrollar una propuesta que permita responder, entre otras, las siguientes preguntas:
+¿Cuál es la fuente oficial de información?
+¿Cómo se captura y actualiza la información?
+¿Cómo se evita la duplicidad o inconsistencia de registros?
+¿Cómo se gestionan los cambios de horario, modalidad, ubicación y enlaces?
+¿Cómo se garantiza que la información publicada corresponda a la información vigente?
+¿Cómo puede un usuario consultar fácilmente una actividad y conocer todos los datos relevantes para participar en ella?
+¿Cómo se controla quién puede crear, modificar, publicar o consultar determinada información?
+¿Cómo se conserva y reutiliza la información una vez concluido el evento?
+Por lo anterior, se solicita desarrollar una propuesta end-to-end para la gestión de información de eventos académicos, contemplando las etapas de captura, almacenamiento, procesamiento, transformación, consulta, gobernanza y seguridad de los datos.
+La propuesta deberá considerar prioritariamente las herramientas tecnológicas actualmente disponibles en la institución y buscar una implementación que no requiera presupuesto adicional para infraestructura o adquisición de software, al menos para una primera etapa piloto.
+El objetivo no es únicamente corregir los problemas observados durante esta edición, sino diseñar un esquema que permita que futuros eventos puedan operar con información consistente, accesible, actualizada y confiable, tanto para los organizadores como para la comunidad universitaria.
+Se espera que la propuesta incluya una solución integral, su arquitectura, flujo de información, mecanismos de control y validación, roles de los usuarios, estrategia de seguridad y un plan para desarrollar un prototipo que pueda ser evaluado en un evento posterior.
+Agradezco su atención y quedo atento a la propuesta.
+Saludos cordiales,
+
+
+Director del Departamento de Tecnologías de la Información
+ 
+ 

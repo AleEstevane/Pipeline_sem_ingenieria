@@ -1,0 +1,564 @@
+﻿Persona_id,Evento_id,Rol
+P001,E001,Ponente
+P002,E002,Maestro de ceremonias
+P003,E003,Ponente
+P004,E003,Maestro de ceremonias
+P005,E004,Ponente
+P006,E004,Maestro de ceremonias
+P007,E005,Ponente
+P008,E006,Ponente
+P009,E007,Ponente
+P010,E007,Maestro de ceremonias
+P011,E008,Maestro de ceremonias
+P012,E009,Ponente
+P013,E009,Maestro de ceremonias
+P014,E010,Ponente
+P015,E010,Maestro de ceremonias
+P016,E011,Ponente
+P017,E012,Ponente
+P018,E012,Maestro de ceremonias
+P019,E013,Ponente
+P018,E013,Maestro de ceremonias
+P020,E014,Ponente
+P013,E014,Maestro de ceremonias
+P021,E015,Ponente
+P022,E016,Ponente
+P023,E017,Ponente
+P024,E017,Maestro de ceremonias
+P025,E018,Ponente
+P026,E019,Ponente
+P027,E019,Maestro de ceremonias
+P028,E020,Ponente
+P029,E020,Ponente
+P030,E020,Ponente
+P031,E020,Ponente
+P028,E020,Maestro de ceremonias
+P032,E021,Ponente
+P033,E022,Ponente
+P034,E022,Maestro de ceremonias
+P035,E023,Ponente
+P036,E023,Maestro de ceremonias
+P037,E024,Maestro de ceremonias
+P038,E025,Ponente
+P039,E025,Maestro de ceremonias
+P040,E026,Ponente
+P041,E026,Maestro de ceremonias
+P020,E027,Ponente
+P042,E028,Ponente
+P043,E028,Maestro de ceremonias
+P028,E029,Ponente
+P044,E029,Maestro de ceremonias
+P045,E030,Ponente
+P046,E030,Maestro de ceremonias
+P047,E031,Ponente
+P048,E031,Maestro de ceremonias
+P049,E032,Ponente
+P050,E032,Ponente
+P051,E032,Maestro de ceremonias
+P052,E033,Ponente
+P006,E033,Maestro de ceremonias
+P053,E034,Ponente
+P054,E035,Ponente
+P036,E035,Maestro de ceremonias
+P055,E036,Ponente
+P056,E036,Maestro de ceremonias
+P057,E037,Ponente
+P042,E037,Maestro de ceremonias
+P058,E038,Ponente
+P059,E038,Maestro de ceremonias
+P060,E039,Ponente
+P061,E039,Maestro de ceremonias
+P062,E040,Ponente
+P063,E040,Maestro de ceremonias
+P064,E041,Ponente
+P065,E041,Maestro de ceremonias
+P066,E042,Ponente
+P006,E042,Maestro de ceremonias
+P067,E043,Ponente
+P051,E043,Maestro de ceremonias
+P068,E044,Ponente
+P056,E044,Maestro de ceremonias
+P039,E045,Ponente
+P069,E046,Ponente
+P070,E046,Maestro de ceremonias
+P071,E047,Maestro de ceremonias
+P037,E048,Maestro de ceremonias
+P072,E049,Ponente
+P073,E050,Ponente
+P013,E050,Maestro de ceremonias
+P074,E051,Ponente
+P075,E051,Maestro de ceremonias
+P076,E052,Ponente
+P077,E053,Ponente
+P078,E053,Maestro de ceremonias
+P079,E054,Ponente
+P080,E054,Maestro de ceremonias
+P081,E055,Ponente
+P082,E055,Maestro de ceremonias
+P083,E056,Ponente
+P084,E056,Maestro de ceremonias
+P085,E057,Ponente
+P067,E057,Maestro de ceremonias
+P086,E058,Ponente
+P087,E058,Maestro de ceremonias
+P088,E059,Ponente
+P006,E059,Maestro de ceremonias
+P089,E060,Ponente
+P090,E060,Maestro de ceremonias
+P091,E061,Ponente
+P092,E062,Ponente
+P093,E062,Maestro de ceremonias
+P094,E063,Ponente
+P013,E063,Maestro de ceremonias
+P020,E064,Ponente
+P013,E064,Maestro de ceremonias
+P095,E065,Ponente
+P096,E065,Maestro de ceremonias
+P097,E066,Ponente
+P098,E067,Ponente
+P099,E068,Ponente
+P100,E068,Maestro de ceremonias
+P101,E069,Ponente
+P013,E069,Maestro de ceremonias
+P102,E070,Ponente
+P103,E071,Ponente
+P104,E071,Maestro de ceremonias
+P105,E072,Ponente
+P106,E072,Maestro de ceremonias
+P107,E073,Ponente
+P013,E073,Maestro de ceremonias
+P108,E074,Ponente
+P109,E074,Maestro de ceremonias
+P011,E075,Maestro de ceremonias
+P110,E076,Ponente
+P095,E076,Maestro de ceremonias
+P086,E077,Ponente
+P087,E077,Maestro de ceremonias
+P111,E078,Ponente
+P093,E078,Maestro de ceremonias
+P112,E079,Ponente
+P093,E079,Maestro de ceremonias
+P113,E080,Ponente
+P013,E080,Maestro de ceremonias
+P086,E081,Ponente
+P087,E081,Maestro de ceremonias
+P114,E082,Ponente
+P115,E083,Ponente
+P011,E083,Maestro de ceremonias
+P002,E084,Maestro de ceremonias
+P002,E085,Maestro de ceremonias
+P116,E086,Ponente
+P011,E086,Maestro de ceremonias
+P117,E087,Ponente
+P118,E087,Maestro de ceremonias
+P119,E088,Ponente
+P056,E088,Maestro de ceremonias
+P120,E089,Ponente
+P015,E089,Maestro de ceremonias
+P121,E090,Ponente
+P122,E091,Ponente
+P041,E091,Maestro de ceremonias
+P043,E092,Ponente
+P042,E092,Maestro de ceremonias
+P123,E093,Ponente
+P124,E093,Maestro de ceremonias
+P125,E094,Ponente
+P011,E094,Maestro de ceremonias
+P126,E095,Ponente
+P127,E095,Maestro de ceremonias
+P078,E096,Ponente
+P128,E097,Ponente
+P129,E097,Maestro de ceremonias
+P130,E098,Ponente
+P131,E098,Maestro de ceremonias
+P132,E099,Ponente
+P133,E100,Ponente
+P134,E100,Maestro de ceremonias
+P135,E101,Ponente
+P136,E101,Ponente
+P137,E101,Ponente
+P138,E101,Ponente
+P135,E101,Maestro de ceremonias
+P139,E102,Ponente
+P140,E102,Maestro de ceremonias
+P141,E103,Ponente
+P142,E103,Ponente
+P143,E103,Maestro de ceremonias
+P144,E104,Ponente
+P011,E104,Maestro de ceremonias
+P099,E105,Ponente
+P100,E105,Maestro de ceremonias
+P145,E106,Ponente
+P010,E106,Maestro de ceremonias
+P146,E107,Ponente
+P147,E108,Ponente
+P148,E108,Maestro de ceremonias
+P113,E109,Ponente
+P013,E109,Maestro de ceremonias
+P011,E110,Maestro de ceremonias
+P149,E111,Ponente
+P150,E111,Maestro de ceremonias
+P151,E112,Ponente
+P152,E112,Maestro de ceremonias
+P153,E113,Ponente
+P154,E113,Maestro de ceremonias
+P155,E114,Ponente
+P152,E114,Maestro de ceremonias
+P156,E115,Maestro de ceremonias
+P056,E116,Ponente
+P157,E116,Ponente
+P158,E116,Maestro de ceremonias
+P159,E117,Ponente
+P148,E117,Maestro de ceremonias
+P160,E118,Ponente
+P001,E118,Maestro de ceremonias
+P161,E119,Ponente
+P162,E119,Maestro de ceremonias
+P163,E120,Ponente
+P164,E120,Maestro de ceremonias
+P165,E121,Ponente
+P166,E121,Maestro de ceremonias
+P167,E122,Ponente
+P168,E122,Maestro de ceremonias
+P169,E123,Ponente
+P034,E123,Maestro de ceremonias
+P170,E124,Ponente
+P006,E124,Maestro de ceremonias
+P152,E125,Ponente
+P171,E125,Maestro de ceremonias
+P172,E126,Ponente
+P036,E126,Maestro de ceremonias
+P173,E127,Ponente
+P174,E127,Maestro de ceremonias
+P162,E128,Ponente
+P175,E128,Maestro de ceremonias
+P176,E129,Ponente
+P177,E129,Maestro de ceremonias
+P178,E130,Ponente
+P179,E131,Ponente
+P073,E131,Maestro de ceremonias
+P180,E132,Ponente
+P011,E132,Maestro de ceremonias
+P181,E133,Ponente
+P182,E133,Maestro de ceremonias
+P183,E134,Ponente
+P184,E134,Maestro de ceremonias
+P054,E135,Ponente
+P185,E135,Maestro de ceremonias
+P186,E136,Ponente
+P056,E136,Maestro de ceremonias
+P187,E137,Ponente
+P090,E137,Maestro de ceremonias
+P020,E138,Ponente
+P188,E139,Ponente
+P189,E139,Maestro de ceremonias
+P190,E140,Ponente
+P191,E140,Maestro de ceremonias
+P086,E141,Ponente
+P192,E141,Maestro de ceremonias
+P193,E142,Ponente
+P194,E142,Maestro de ceremonias
+P195,E143,Ponente
+P034,E143,Maestro de ceremonias
+P191,E144,Ponente
+P151,E144,Maestro de ceremonias
+P097,E145,Ponente
+P196,E146,Ponente
+P197,E146,Maestro de ceremonias
+P198,E147,Ponente
+P199,E147,Maestro de ceremonias
+P200,E148,Ponente
+P201,E148,Maestro de ceremonias
+P202,E149,Ponente
+P010,E149,Maestro de ceremonias
+P203,E150,Ponente
+P073,E150,Maestro de ceremonias
+P204,E151,Ponente
+P148,E151,Maestro de ceremonias
+P205,E152,Ponente
+P206,E152,Maestro de ceremonias
+P207,E153,Ponente
+P082,E153,Maestro de ceremonias
+P208,E154,Ponente
+P056,E154,Maestro de ceremonias
+P209,E155,Ponente
+P210,E155,Maestro de ceremonias
+P211,E156,Ponente
+P090,E156,Maestro de ceremonias
+P086,E157,Ponente
+P212,E157,Maestro de ceremonias
+P213,E158,Ponente
+P214,E158,Maestro de ceremonias
+P215,E159,Ponente
+P090,E159,Maestro de ceremonias
+P216,E160,Ponente
+P217,E160,Maestro de ceremonias
+P218,E161,Ponente
+P209,E161,Maestro de ceremonias
+P086,E162,Ponente
+P192,E162,Maestro de ceremonias
+P219,E163,Ponente
+P220,E164,Ponente
+P066,E164,Ponente
+P221,E164,Ponente
+P006,E164,Maestro de ceremonias
+P011,E165,Maestro de ceremonias
+P002,E166,Maestro de ceremonias
+P222,E167,Ponente
+P223,E167,Ponente
+P013,E167,Maestro de ceremonias
+P118,E168,Ponente
+P224,E169,Ponente
+P225,E169,Ponente
+P226,E169,Maestro de ceremonias
+P227,E170,Ponente
+P122,E170,Maestro de ceremonias
+P228,E171,Ponente
+P010,E171,Maestro de ceremonias
+P025,E172,Ponente
+P229,E173,Ponente
+P230,E173,Ponente
+P231,E173,Maestro de ceremonias
+P232,E174,Ponente
+P233,E174,Ponente
+P234,E174,Ponente
+P090,E174,Maestro de ceremonias
+P235,E175,Ponente
+P048,E175,Maestro de ceremonias
+P132,E176,Ponente
+P036,E176,Maestro de ceremonias
+P236,E177,Ponente
+P010,E177,Maestro de ceremonias
+P237,E178,Ponente
+P238,E178,Maestro de ceremonias
+P239,E179,Ponente
+P240,E179,Ponente
+P226,E179,Maestro de ceremonias
+P241,E180,Ponente
+P061,E180,Maestro de ceremonias
+P242,E181,Ponente
+P243,E181,Maestro de ceremonias
+P244,E182,Ponente
+P056,E182,Maestro de ceremonias
+P245,E183,Ponente
+P246,E183,Maestro de ceremonias
+P247,E184,Ponente
+P248,E184,Maestro de ceremonias
+P249,E185,Maestro de ceremonias
+P250,E185,Maestro de ceremonias
+P150,E186,Ponente
+P051,E186,Maestro de ceremonias
+P035,E187,Ponente
+P036,E187,Maestro de ceremonias
+P251,E188,Ponente
+P252,E188,Maestro de ceremonias
+P253,E189,Ponente
+P148,E189,Maestro de ceremonias
+P254,E190,Ponente
+P255,E190,Ponente
+P056,E190,Maestro de ceremonias
+P256,E191,Ponente
+P248,E191,Maestro de ceremonias
+P257,E192,Ponente
+P164,E192,Maestro de ceremonias
+P156,E193,Ponente
+P140,E193,Maestro de ceremonias
+P258,E194,Ponente
+P259,E194,Maestro de ceremonias
+P260,E195,Ponente
+P048,E195,Maestro de ceremonias
+P016,E196,Ponente
+P261,E196,Maestro de ceremonias
+P262,E197,Ponente
+P263,E197,Maestro de ceremonias
+P264,E198,Ponente
+P265,E199,Maestro de ceremonias
+P266,E200,Ponente
+P082,E200,Maestro de ceremonias
+P267,E201,Ponente
+P078,E201,Maestro de ceremonias
+P077,E202,Ponente
+P078,E202,Maestro de ceremonias
+P268,E203,Ponente
+P056,E203,Maestro de ceremonias
+P269,E204,Ponente
+P248,E204,Maestro de ceremonias
+P079,E205,Ponente
+P090,E205,Maestro de ceremonias
+P270,E206,Ponente
+P034,E206,Maestro de ceremonias
+P271,E207,Ponente
+P272,E207,Maestro de ceremonias
+P175,E208,Ponente
+P273,E208,Maestro de ceremonias
+P274,E209,Ponente
+P002,E209,Maestro de ceremonias
+P275,E210,Ponente
+P185,E210,Maestro de ceremonias
+P276,E211,Ponente
+P277,E211,Maestro de ceremonias
+P278,E212,Ponente
+P056,E212,Maestro de ceremonias
+P279,E213,Ponente
+P280,E213,Maestro de ceremonias
+P222,E214,Ponente
+P281,E214,Ponente
+P013,E214,Maestro de ceremonias
+P232,E215,Ponente
+P233,E215,Ponente
+P234,E215,Ponente
+P090,E215,Maestro de ceremonias
+P282,E216,Ponente
+P095,E216,Maestro de ceremonias
+P283,E217,Ponente
+P284,E217,Maestro de ceremonias
+P285,E218,Ponente
+P013,E218,Maestro de ceremonias
+P220,E219,Ponente
+P066,E219,Ponente
+P221,E219,Ponente
+P006,E219,Maestro de ceremonias
+P002,E220,Maestro de ceremonias
+P286,E221,Ponente
+P034,E221,Maestro de ceremonias
+P287,E222,Ponente
+P097,E222,Maestro de ceremonias
+P288,E223,Ponente
+P243,E223,Maestro de ceremonias
+P289,E224,Ponente
+P290,E224,Maestro de ceremonias
+P291,E225,Ponente
+P037,E225,Maestro de ceremonias
+P002,E226,Maestro de ceremonias
+P292,E227,Ponente
+P185,E227,Maestro de ceremonias
+P293,E228,Ponente
+P129,E228,Maestro de ceremonias
+P158,E229,Ponente
+P056,E229,Maestro de ceremonias
+P294,E230,Ponente
+P248,E230,Maestro de ceremonias
+P295,E231,Ponente
+P277,E231,Maestro de ceremonias
+P296,E232,Ponente
+P148,E232,Maestro de ceremonias
+P039,E233,Ponente
+P297,E234,Ponente
+P298,E234,Ponente
+P299,E234,Ponente
+P300,E234,Ponente
+P226,E234,Maestro de ceremonias
+P045,E235,Ponente
+P046,E235,Maestro de ceremonias
+P301,E236,Ponente
+P302,E237,Ponente
+P303,E237,Maestro de ceremonias
+P304,E238,Ponente
+P305,E238,Maestro de ceremonias
+P306,E239,Ponente
+P082,E239,Maestro de ceremonias
+P307,E240,Ponente
+P056,E240,Maestro de ceremonias
+P308,E241,Ponente
+P078,E241,Maestro de ceremonias
+P309,E242,Ponente
+P118,E242,Maestro de ceremonias
+P310,E243,Ponente
+P277,E243,Maestro de ceremonias
+P311,E244,Ponente
+P220,E245,Ponente
+P066,E245,Ponente
+P312,E245,Ponente
+P006,E245,Maestro de ceremonias
+P313,E246,Ponente
+P314,E246,Maestro de ceremonias
+P315,E247,Ponente
+P305,E247,Maestro de ceremonias
+P280,E248,Maestro de ceremonias
+P311,E249,Ponente
+P316,E249,Maestro de ceremonias
+P311,E250,Ponente
+P317,E251,Ponente
+P318,E251,Maestro de ceremonias
+P319,E252,Ponente
+P320,E252,Maestro de ceremonias
+P321,E253,Ponente
+P322,E253,Maestro de ceremonias
+P277,E254,Ponente
+P148,E254,Maestro de ceremonias
+P248,E255,Ponente
+P042,E255,Maestro de ceremonias
+P323,E256,Ponente
+P324,E256,Maestro de ceremonias
+P325,E257,Ponente
+P326,E257,Maestro de ceremonias
+P062,E258,Ponente
+P041,E258,Maestro de ceremonias
+P327,E259,Ponente
+P034,E259,Maestro de ceremonias
+P328,E260,Ponente
+P329,E260,Maestro de ceremonias
+P010,E261,Ponente
+P275,E262,Ponente
+P185,E262,Maestro de ceremonias
+P330,E263,Ponente
+P097,E263,Maestro de ceremonias
+P114,E264,Ponente
+P331,E264,Maestro de ceremonias
+P180,E265,Ponente
+P332,E265,Maestro de ceremonias
+P333,E266,Ponente
+P334,E266,Maestro de ceremonias
+P335,E267,Ponente
+P013,E267,Maestro de ceremonias
+P325,E268,Ponente
+P326,E268,Maestro de ceremonias
+P010,E269,Ponente
+P336,E270,Ponente
+P337,E270,Maestro de ceremonias
+P338,E271,Ponente
+P337,E271,Maestro de ceremonias
+P339,E272,Ponente
+P001,E272,Maestro de ceremonias
+P340,E273,Ponente
+P082,E273,Maestro de ceremonias
+P341,E274,Ponente
+P034,E274,Maestro de ceremonias
+P180,E275,Ponente
+P342,E275,Maestro de ceremonias
+P118,E276,Ponente
+P280,E277,Maestro de ceremonias
+P343,E278,Ponente
+P001,E278,Maestro de ceremonias
+P344,E279,Maestro de ceremonias
+P345,E280,Ponente
+P001,E280,Maestro de ceremonias
+P346,E281,Ponente
+P347,E282,Ponente
+P001,E282,Maestro de ceremonias
+P010,E283,Ponente
+P148,E283,Maestro de ceremonias
+P348,E284,Ponente
+P001,E284,Maestro de ceremonias
+P349,E285,Ponente
+P001,E285,Maestro de ceremonias
+P350,E286,Ponente
+P351,E286,Maestro de ceremonias
+P078,E287,Maestro de ceremonias
+P077,E288,Ponente
+P078,E288,Maestro de ceremonias
+P352,E289,Ponente
+P137,E289,Maestro de ceremonias
+P353,E290,Ponente
+P354,E290,Maestro de ceremonias
+P355,E291,Ponente
+P356,E291,Maestro de ceremonias
+P357,E292,Ponente
+P358,E292,Ponente
+P359,E292,Ponente
+P360,E292,Ponente
+P361,E292,Ponente
+P362,E292,Ponente
+P363,E292,Maestro de ceremonias
+P353,E293,Ponente
+P364,E293,Maestro de ceremonias

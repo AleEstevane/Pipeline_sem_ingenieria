@@ -1,0 +1,433 @@
+﻿Lugar_id,Descripcion_lugar,Cupo,Ubicacion,Campus
+L001,—,40,Aula,IIT
+L002,CANCHA DE BASQUET/FUTBOLITO Cancha Basquet/Futbo,40,Cancha,IIT
+L003,B1 101,40,Aula,IIT
+L004,B1 101,40,Aula,IIT
+L005,B1 101,40,Aula,IIT
+L006,B1 101,40,Aula,IIT
+L007,B1 101,40,Aula,IIT
+L008,CUAUH A 108 - Audiovisual,40,Audiovisual,CUAUH
+L009,W 102,40,Aula,IIT
+L010,W 102,40,Aula,IIT
+L011,W 102,40,Aula,IIT
+L012,W 102,40,Aula,IIT
+L013,W 102,40,Aula,IIT
+L014,Y4 203,40,Aula,IIT
+L015,Y4 203,40,Aula,IIT
+L016,Y4 203,40,Aula,IIT
+L017,Y4 203,40,Aula,IIT
+L018,Y4 203,40,Aula,IIT
+L019,W 103,40,Aula,IIT
+L020,W 103,40,Aula,IIT
+L021,W 103,40,Aula,IIT
+L022,W 103,40,Aula,IIT
+L023,W 103,40,Aula,IIT
+L024,C1 Macroaula I,40,Macroaula,IIT
+L025,W 105,40,Aula,IIT
+L026,W 105,40,Aula,IIT
+L027,W 105,40,Aula,IIT
+L028,W 105,40,Aula,IIT
+L029,W 105,40,Aula,IIT
+L030,W 306,40,Aula,IIT
+L031,W 306,40,Aula,IIT
+L032,W 306,40,Aula,IIT
+L033,CU D3 107,40,Aula,CU
+L034,CU D3 107,40,Aula,CU
+L035,CU D3 107,40,Aula,CU
+L036,CU D3 107,40,Aula,CU
+L037,W 101,40,Aula,IIT
+L038,W 101,40,Aula,IIT
+L039,W 101,40,Aula,IIT
+L040,W 101,40,Aula,IIT
+L041,Y4 201,40,Aula,IIT
+L042,Y4 201,40,Aula,IIT
+L043,Y4 201,40,Aula,IIT
+L044,Y4 201,40,Aula,IIT
+L045,W 303,40,Aula,IIT
+L046,W 106,40,Aula,IIT
+L047,W 106,40,Aula,IIT
+L048,W 106,40,Aula,IIT
+L049,W 106,40,Aula,IIT
+L050,D 103,40,Aula,IIT
+L051,Y4 Vestíbulo,40,Aula,IIT
+L052,—,40,Aula,IIT
+L053,—,40,Aula,IIT
+L054,C1 Macroaula I,40,Macroaula,IIT
+L055,J1 106,40,Aula,IIT
+L056,J1 106,40,Aula,IIT
+L057,J1 106,40,Aula,IIT
+L058,J1 106,40,Aula,IIT
+L059,J1 106,40,Aula,IIT
+L060,CU D2 210 - Cómp. Avanz,40,Aula,CU
+L061,CU D2 210 - Cómp. Avanz,40,Aula,CU
+L062,CU D2 210 - Cómp. Avanz,40,Aula,CU
+L063,CU D2 210 - Cómp. Avanz,40,Aula,CU
+L064,E 102 Audiovisual E,40,Audiovisual,IIT
+L065,CU C 124 - Audiovisual,40,Audiovisual,CU
+L066,PLAZA DE LA FRATERNIDAD Plaza de la Frater,40,Aula,IIT
+L067,PLAZA DE LA FRATERNIDAD Plaza de la Frater,40,Aula,IIT
+L068,PLAZA DE LA FRATERNIDAD Plaza de la Frater,40,Aula,IIT
+L069,PLAZA DE LA FRATERNIDAD Plaza de la Frater,40,Aula,IIT
+L070,PLAZA DE LA FRATERNIDAD Plaza de la Frater,40,Aula,IIT
+L071,Y5 102,40,Aula,IIT
+L072,Y5 102,40,Aula,IIT
+L073,D1 Macroaula II,40,Macroaula,IIT
+L074,Y1 208 Audiovisual Indu,40,Audiovisual,IIT
+L075,D 202,40,Aula,IIT
+L076,H 101,40,Aula,IIT
+L077,G 202,40,Aula,IIT
+L078,G 202,40,Aula,IIT
+L079,G 202,40,Aula,IIT
+L080,E Vestíbulo,40,Aula,IIT
+L081,E Vestíbulo,40,Aula,IIT
+L082,E Vestíbulo,40,Aula,IIT
+L083,—,40,Aula,IIT
+L084,CUAUH A 108 - Audiovisual,40,Audiovisual,CUAUH
+L085,CU D4 208,40,Aula,CU
+L086,—,40,Aula,IIT
+L087,H 101,40,Aula,IIT
+L088,D 202,40,Aula,IIT
+L089,CU D3 107,40,Aula,CU
+L090,CU D3 107,40,Aula,CU
+L091,CU D3 107,40,Aula,CU
+L092,CU D3 107,40,Aula,CU
+L093,Y4 101,40,Aula,IIT
+L094,Z 105 Audiovisual,40,Audiovisual,IIT
+L095,Z 105 Audiovisual,40,Audiovisual,IIT
+L096,Z 105 Audiovisual,40,Audiovisual,IIT
+L097,Z 105 Audiovisual,40,Audiovisual,IIT
+L098,—,40,Aula,IIT
+L099,CUAUH A 108 - Audiovisual,40,Audiovisual,CUAUH
+L100,—,40,Aula,IIT
+L101,C 101 Lab. de Nanomedi,40,Laboratorio,IIT
+L102,C 101 Lab. de Nanomedi,40,Laboratorio,IIT
+L103,C 101 Lab. de Nanomedi,40,Laboratorio,IIT
+L104,C 101 Lab. de Nanomedi,40,Laboratorio,IIT
+L105,C 101 Lab. de Nanomedi,40,Laboratorio,IIT
+L106,Z 105 Audiovisual,40,Audiovisual,IIT
+L107,Z 105 Audiovisual,40,Audiovisual,IIT
+L108,Z 105 Audiovisual,40,Audiovisual,IIT
+L109,Z 105 Audiovisual,40,Audiovisual,IIT
+L110,Z 105 Audiovisual,40,Audiovisual,IIT
+L111,W 115,40,Aula,IIT
+L112,W 115,40,Aula,IIT
+L113,W 115,40,Aula,IIT
+L114,W 115,40,Aula,IIT
+L115,CU Explanada,40,Explanada/Vestibulo,CU
+L116,PLAZA DE LA FRATERNIDAD Plaza de la Frater,40,Aula,IIT
+L117,PLAZA DE LA FRATERNIDAD Plaza de la Frater,40,Aula,IIT
+L118,PLAZA DE LA FRATERNIDAD Plaza de la Frater,40,Aula,IIT
+L119,PLAZA DE LA FRATERNIDAD Plaza de la Frater,40,Aula,IIT
+L120,PLAZA DE LA FRATERNIDAD Plaza de la Frater,40,Aula,IIT
+L121,D 103,40,Aula,IIT
+L122,D 103,40,Aula,IIT
+L123,D 103,40,Aula,IIT
+L124,D 103,40,Aula,IIT
+L125,D 103,40,Aula,IIT
+L126,Y1 202 Lab. Logística,40,Laboratorio,IIT
+L127,Y1 202 Lab. Logística,40,Laboratorio,IIT
+L128,Y1 202 Lab. Logística,40,Laboratorio,IIT
+L129,Y1 202 Lab. Logística,40,Laboratorio,IIT
+L130,Y1 202 Lab. Logística,40,Laboratorio,IIT
+L131,Y4 201,40,Aula,IIT
+L132,Y4 201,40,Aula,IIT
+L133,Y4 201,40,Aula,IIT
+L134,Y4 201,40,Aula,IIT
+L135,CU D2 210 - Cómp. Avanz,40,Aula,CU
+L136,CU D2 210 - Cómp. Avanz,40,Aula,CU
+L137,CU D2 210 - Cómp. Avanz,40,Aula,CU
+L138,CU D2 210 - Cómp. Avanz,40,Aula,CU
+L139,E 110,40,Aula,IIT
+L140,E 110,40,Aula,IIT
+L141,CU C 124 - Audiovisual,40,Audiovisual,CU
+L142,E 102 Audiovisual E,40,Audiovisual,IIT
+L143,C 211,40,Aula,IIT
+L144,—,40,Aula,IIT
+L145,B 116 Audiovisual B,40,Audiovisual,IIT
+L146,CUAUH Explanada Campus,40,Explanada/Vestibulo,CUAUH
+L147,W 206,40,Aula,IIT
+L148,W 206,40,Aula,IIT
+L149,W 206,40,Aula,IIT
+L150,W 206,40,Aula,IIT
+L151,J1 107,40,Aula,IIT
+L152,J1 107,40,Aula,IIT
+L153,J1 107,40,Aula,IIT
+L154,J1 107,40,Aula,IIT
+L155,J1 107,40,Aula,IIT
+L156,—,40,Aula,IIT
+L157,—,40,Aula,IIT
+L158,—,40,Aula,IIT
+L159,—,40,Aula,IIT
+L160,—,40,Aula,IIT
+L161,—,40,Aula,IIT
+L162,W 303,40,Aula,IIT
+L163,—,40,Aula,IIT
+L164,Y1 103,40,Aula,IIT
+L165,C 210,40,Aula,IIT
+L166,C 210,40,Aula,IIT
+L167,C 210,40,Aula,IIT
+L168,C 210,40,Aula,IIT
+L169,C 210,40,Aula,IIT
+L170,—,40,Aula,IIT
+L171,—,40,Aula,IIT
+L172,—,40,Aula,IIT
+L173,—,40,Aula,IIT
+L174,—,40,Aula,IIT
+L175,W 306,40,Aula,IIT
+L176,W 306,40,Aula,IIT
+L177,W 306,40,Aula,IIT
+L178,W 306,40,Aula,IIT
+L179,J2 J2-103,40,Aula,IIT
+L180,J2 J2-103,40,Aula,IIT
+L181,J2 J2-103,40,Aula,IIT
+L182,J2 J2-103,40,Aula,IIT
+L183,J2 J2-103,40,Aula,IIT
+L184,G 202,40,Aula,IIT
+L185,D1 Macroaula II,40,Macroaula,IIT
+L186,Y1 208 Audiovisual Indu,40,Audiovisual,IIT
+L187,H 101,40,Aula,IIT
+L188,E 102 Audiovisual E,40,Audiovisual,IIT
+L189,—,40,Aula,IIT
+L190,B 116 Audiovisual B,40,Audiovisual,IIT
+L191,—,40,Aula,IIT
+L192,—,40,Aula,IIT
+L193,Y1 208 Audiovisual Indu,40,Audiovisual,IIT
+L194,B 116 Audiovisual B,40,Audiovisual,IIT
+L195,D 107,40,Aula,IIT
+L196,D 107,40,Aula,IIT
+L197,D 107,40,Aula,IIT
+L198,D 107,40,Aula,IIT
+L199,D 107,40,Aula,IIT
+L200,PLAZA DE LA FRATERNIDAD Plaza de la Frate,40,Aula,IIT
+L201,X Biblioteca 2° piso,40,Aula,IIT
+L202,PLAZA DE LA FRATERNIDAD Plaza de la Fraterni,40,Aula,IIT
+L203,PLAZA DE LA FRATERNIDAD Plaza de la Frat,40,Aula,IIT
+L204,—,40,Aula,IIT
+L205,H 101,40,Aula,IIT
+L206,Y1 101 Audiovisual Manu,40,Audiovisual,IIT
+L207,Y1 208 Audiovisual Indu,40,Audiovisual,IIT
+L208,D1 Macroaula II,40,Macroaula,IIT
+L209,D 202,40,Aula,IIT
+L210,C 211,40,Aula,IIT
+L211,H 103,40,Aula,IIT
+L212,G 202,40,Aula,IIT
+L213,G 202,40,Aula,IIT
+L214,G 202,40,Aula,IIT
+L215,W 115,40,Aula,IIT
+L216,W 115,40,Aula,IIT
+L217,W 115,40,Aula,IIT
+L218,W 115,40,Aula,IIT
+L219,CU D3 202 - Audiovisual,40,Audiovisual,CU
+L220,CU A 101 - Audiovisual,40,Audiovisual,CU
+L221,CU C 222,40,Aula,CU
+L222,D1 Macroaula II,40,Macroaula,IIT
+L223,Y4 101,40,Aula,IIT
+L224,Y4 101,40,Aula,IIT
+L225,CU D3 202 - Audiovisual,40,Audiovisual,CU
+L226,H 101,40,Aula,IIT
+L227,H 103,40,Aula,IIT
+L228,—,40,Aula,IIT
+L229,Y1 101 Audiovisual Manu,40,Audiovisual,IIT
+L230,—,40,Aula,IIT
+L231,—,40,Aula,IIT
+L232,Y1 208 Audiovisual Indu,40,Audiovisual,IIT
+L233,Z 101 Audiovisual,40,Audiovisual,IIT
+L234,H1 102 Audiovisual H1,40,Audiovisual,IIT
+L235,H1 102 Audiovisual H1,40,Audiovisual,IIT
+L236,CU A 101 - Audiovisual,40,Audiovisual,CU
+L237,H1 102 Audiovisual H1,40,Audiovisual,IIT
+L238,CU Pista de Competencia,40,Aula,CU
+L239,H 101,40,Aula,IIT
+L240,—,40,Aula,IIT
+L241,D1 Macroaula II,40,Macroaula,IIT
+L242,H1 102 Audiovisual H1,40,Audiovisual,IIT
+L243,G 202,40,Aula,IIT
+L244,E 110,40,Aula,IIT
+L245,—,40,Aula,IIT
+L246,E 102 Audiovisual E,40,Audiovisual,IIT
+L247,CUAUH Explanada Campus,40,Explanada/Vestibulo,CUAUH
+L248,—,40,Aula,IIT
+L249,CU C 206,40,Aula,CU
+L250,E 110,40,Aula,IIT
+L251,—,40,Aula,IIT
+L252,CU D3 202 - Audiovisual,40,Audiovisual,CU
+L253,CU C 124 - Audiovisual,40,Audiovisual,CU
+L254,Y1 101 Audiovisual Manu,40,Audiovisual,IIT
+L255,Z 101 Audiovisual,40,Audiovisual,IIT
+L256,Z 101 Audiovisual,40,Audiovisual,IIT
+L257,Z 101 Audiovisual,40,Audiovisual,IIT
+L258,W 118,40,Aula,IIT
+L259,W 118,40,Aula,IIT
+L260,W 118,40,Aula,IIT
+L261,J1 106,40,Aula,IIT
+L262,—,40,Aula,IIT
+L263,—,40,Aula,IIT
+L264,H 101,40,Aula,IIT
+L265,C1 Macroaula I,40,Macroaula,IIT
+L266,Y1 208 Audiovisual Indu,40,Audiovisual,IIT
+L267,D1 Macroaula II,40,Macroaula,IIT
+L268,—,40,Aula,IIT
+L269,B 116 Audiovisual B,40,Audiovisual,IIT
+L270,—,40,Aula,IIT
+L271,E 102 Audiovisual E,40,Audiovisual,IIT
+L272,—,40,Aula,IIT
+L273,Y1 103,40,Aula,IIT
+L274,G 302,40,Aula,IIT
+L275,G 302,40,Aula,IIT
+L276,G 302,40,Aula,IIT
+L277,J1 106,40,Aula,IIT
+L278,C 211,40,Aula,IIT
+L279,Y1 101 Audiovisual Manu,40,Audiovisual,IIT
+L280,Y1 208 Audiovisual Indu,40,Audiovisual,IIT
+L281,D 202,40,Aula,IIT
+L282,—,40,Aula,IIT
+L283,E 102 Audiovisual E,40,Audiovisual,IIT
+L284,H 101,40,Aula,IIT
+L285,—,40,Aula,IIT
+L286,D1 Macroaula II,40,Macroaula,IIT
+L287,B 116 Audiovisual B,40,Audiovisual,IIT
+L288,—,40,Aula,IIT
+L289,D1 Macroaula II,40,Macroaula,IIT
+L290,E 102 Audiovisual E,40,Audiovisual,IIT
+L291,—,40,Aula,IIT
+L292,B 116 Audiovisual B,40,Audiovisual,IIT
+L293,Y2 102,40,Aula,IIT
+L294,Y2 102,40,Aula,IIT
+L295,Y2 102,40,Aula,IIT
+L296,CUAUH Polideportivo,40,Aula,CUAUH
+L297,PLAZA DE LA FRATERNIDAD Plaza de la Fraterni,40,Aula,IIT
+L298,PLAZA DE LA FRATERNIDAD Plaza de la Fraterni,40,Aula,IIT
+L299,ESTACIONAMIENTO ADMINISTRATIVO Estacionamiento Admv,40,Aula,IIT
+L300,Y1 208 Audiovisual Indu,40,Audiovisual,IIT
+L301,Y1 208 Audiovisual Indu,40,Audiovisual,IIT
+L302,Y1 208 Audiovisual Indu,40,Audiovisual,IIT
+L303,D 103,40,Aula,IIT
+L304,C1 Macroaula I,40,Macroaula,IIT
+L305,D1 Macroaula II,40,Macroaula,IIT
+L306,—,40,Aula,IIT
+L307,—,40,Aula,IIT
+L308,—,40,Aula,IIT
+L309,Y1 101 Audiovisual Manu,40,Audiovisual,IIT
+L310,H 101,40,Aula,IIT
+L311,E 102 Audiovisual E,40,Audiovisual,IIT
+L312,CU C 222,40,Aula,CU
+L313,Y1 101 Audiovisual Manu,40,Audiovisual,IIT
+L314,D1 Macroaula II,40,Macroaula,IIT
+L315,C1 Macroaula I,40,Macroaula,IIT
+L316,B 116 Audiovisual B,40,Audiovisual,IIT
+L317,—,40,Aula,IIT
+L318,H 101,40,Aula,IIT
+L319,—,40,Aula,IIT
+L320,D 202,40,Aula,IIT
+L321,CU B Vestíbulo,40,Aula,CU
+L322,—,40,Aula,IIT
+L323,—,40,Aula,IIT
+L324,—,40,Aula,IIT
+L325,Y1 101 Audiovisual Manu,40,Audiovisual,IIT
+L326,H 101,40,Aula,IIT
+L327,D 202,40,Aula,IIT
+L328,G 203,40,Aula,IIT
+L329,G 203,40,Aula,IIT
+L330,CU C 124 - Audiovisual,40,Audiovisual,CU
+L331,—,40,Aula,IIT
+L332,E 102 Audiovisual E,40,Audiovisual,IIT
+L333,CU C 124 - Audiovisual,40,Audiovisual,CU
+L334,CU D3 202 - Audiovisual,40,Audiovisual,CU
+L335,CU A 101 - Audiovisual,40,Audiovisual,CU
+L336,CU D2 102 - Meca y Auto,40,Aula,CU
+L337,—,40,Aula,IIT
+L338,E 102 Audiovisual E,40,Audiovisual,IIT
+L339,E 110,40,Aula,IIT
+L340,E 110,40,Aula,IIT
+L341,H 101,40,Aula,IIT
+L342,D 202,40,Aula,IIT
+L343,D1 Macroaula II,40,Macroaula,IIT
+L344,E 102 Audiovisual E,40,Audiovisual,IIT
+L345,—,40,Aula,IIT
+L346,—,40,Aula,IIT
+L347,CANCHA Cancha de Pádel,40,Cancha,IIT
+L348,—,40,Aula,IIT
+L349,Y1 101 Audiovisual Manu,40,Audiovisual,IIT
+L350,—,40,Aula,IIT
+L351,E 102 Audiovisual E,40,Audiovisual,IIT
+L352,Y1 208 Audiovisual Indu,40,Audiovisual,IIT
+L353,D1 Macroaula II,40,Macroaula,IIT
+L354,—,40,Aula,IIT
+L355,—,40,Aula,IIT
+L356,Y4 Vestíbulo,40,Aula,IIT
+L357,CUAUH Estadio Olímpico,40,Aula,CUAUH
+L358,CANCHA Cancha de Pádel,40,Cancha,IIT
+L359,ESTACIONAMIENTO ADMINISTRATIVO Estacionamiento Admv,40,Aula,IIT
+L360,C1 Macroaula I,40,Macroaula,IIT
+L361,D1 Macroaula II,40,Macroaula,IIT
+L362,Y1 101 Audiovisual Manu,40,Audiovisual,IIT
+L363,B 116 Audiovisual B,40,Audiovisual,IIT
+L364,H 103,40,Aula,IIT
+L365,—,40,Aula,IIT
+L366,CU A 101 - Audiovisual,40,Audiovisual,CU
+L367,H 101,40,Aula,IIT
+L368,D 202,40,Aula,IIT
+L369,Y1 101 Audiovisual Manu,40,Audiovisual,IIT
+L370,—,40,Aula,IIT
+L371,D1 Macroaula II,40,Macroaula,IIT
+L372,C1 Macroaula I,40,Macroaula,IIT
+L373,G 202,40,Aula,IIT
+L374,CU A 101 - Audiovisual,40,Audiovisual,CU
+L375,CU D3 202 - Audiovisual,40,Audiovisual,CU
+L376,CU C 124 - Audiovisual,40,Audiovisual,CU
+L377,—,40,Aula,IIT
+L378,H 101,40,Aula,IIT
+L379,E 102 Audiovisual E,40,Audiovisual,IIT
+L380,—,40,Aula,IIT
+L381,Y1 101 Audiovisual Manu,40,Audiovisual,IIT
+L382,CU B Vestíbulo,40,Aula,CU
+L383,CUAUH Estadio Olímpico,40,Aula,CUAUH
+L384,CU A 101 - Audiovisual,40,Audiovisual,CU
+L385,CU C 124 - Audiovisual,40,Audiovisual,CU
+L386,E Vestíbulo,40,Aula,IIT
+L387,CU C Vestíbulo,40,Aula,CU
+L388,CU Explanada,40,Explanada/Vestibulo,CU
+L389,Y1 208 Audiovisual Indu,40,Audiovisual,IIT
+L390,CU C 124 - Audiovisual,40,Audiovisual,CU
+L391,CU D3 202 - Audiovisual,40,Audiovisual,CU
+L392,Y1 101 Audiovisual Manu,40,Audiovisual,IIT
+L393,D 202,40,Aula,IIT
+L394,B 116 Audiovisual B,40,Audiovisual,IIT
+L395,H 101,40,Aula,IIT
+L396,PLAZA CULTURAL Plaza Cultural,40,Aula,IIT
+L397,E 102 Audiovisual E,40,Audiovisual,IIT
+L398,Y1 103,40,Aula,IIT
+L399,Y1 103,40,Aula,IIT
+L400,PLAZA DE LA FRATERNIDAD Plaza de la Frat,40,Aula,IIT
+L401,—,40,Aula,IIT
+L402,C1 Macroaula I,40,Macroaula,IIT
+L403,D 202,40,Aula,IIT
+L404,D1 Macroaula II,40,Macroaula,IIT
+L405,G 202,40,Aula,IIT
+L406,Y1 208 Audiovisual Indu,40,Audiovisual,IIT
+L407,H 101,40,Aula,IIT
+L408,PLAZA DE LA FRATERNIDAD Plaza de la Frat,40,Aula,IIT
+L409,Y1 101 Audiovisual Manu,40,Audiovisual,IIT
+L410,Y1 208 Audiovisual Indu,40,Audiovisual,IIT
+L411,D1 Macroaula II,40,Macroaula,IIT
+L412,ESTACIONAMIENTO DE MAESTROS Estacionamiento Maes,40,Aula,IIT
+L413,PLAZA DE LA FRATERNIDAD Plaza de la Fraterni,40,Aula,IIT
+L414,H1 102 Audiovisual H1,40,Audiovisual,IIT
+L415,D 103,40,Aula,IIT
+L416,ESTACIONAMIENTO ADMINISTRATIVO Estacionamiento Admv,40,Aula,IIT
+L417,D1 Macroaula II,40,Macroaula,IIT
+L418,CU D2 210 - Cómp. Avanz,40,Aula,CU
+L419,D1 Macroaula II,40,Macroaula,IIT
+L420,PLAZA DE LA FRATERNIDAD Plaza de la Frat,40,Aula,IIT
+L421,D1 Macroaula II,40,Macroaula,IIT
+L422,Y1 101 Audiovisual Manu,40,Audiovisual,IIT
+L423,D1 Macroaula II,40,Macroaula,IIT
+L424,D1 Macroaula II,40,Macroaula,IIT
+L425,D1 Macroaula II,40,Macroaula,IIT
+L426,E Vestíbulo,40,Aula,IIT
+L427,E 110,40,Aula,IIT
+L428,—,40,Aula,IIT
+L429,C 211,40,Aula,IIT
+L430,W 118,40,Aula,IIT
+L431,D 202,40,Aula,IIT
+L432,C 211,40,Aula,IIT

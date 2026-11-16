@@ -1,0 +1,294 @@
+﻿Evento_id,Tipo_actividad_id,Departamento_id,Titulo_evento,Descripcion_evento
+E001,T001,D002,Ubicando fallas en productos con uso de equipos ópticos y electrónicos de metrología,Conferencia enfocado en ubicando fallas en productos con uso de equipos ópticos y electrónicos de metrología. UACJ.
+E002,T008,D002,Torneo relámpago Fútbol 5x5,Deportiva enfocado en torneo relámpago fútbol 5x5. UACJ.
+E003,T004,D002,Concurso de  Programación  RoboKart,Concurso enfocado en concurso de  programación  robokart. Instituto de Ingeniería y Tecnología-UACJ.
+E004,T010,D002,Asistencia de la inauguracion de la semana de Ingenieria en Juarez Audiovisual del Campus Cuauhtemoc,Otra enfocado en asistencia de la inauguracion de la semana de ingenieria en juarez audiovisual del campus cuauhtemoc. UACJ.
+E005,T007,D002,Diseño de MEMS,Curso enfocado en diseño de mems. UACJ.
+E006,T007,D002,Diseño de Tarjetas Electrónicas (PCBs),Curso enfocado en diseño de tarjetas electrónicas (pcbs). UACJ.
+E007,T007,D002,Principios de Diseño Mecánico con Solid Works,Curso enfocado en principios de diseño mecánico con solid works. Instituto de Ingeniería y Tecnología-UACJ.
+E008,T010,D002,Ceremonia de Inauguración de la XXXII Semana de Ingeniería,Otra enfocado en ceremonia de inauguración de la xxxii semana de ingeniería. UACJ.
+E009,T002,D002,Excel para Ingeniería de Procesos,Taller enfocado en excel para ingeniería de procesos. Universidad Autónoma de Ciudad Juárez.
+E010,T002,D002,Instrumentación Virtual con LabView y Analog Discovery 3,Taller enfocado en instrumentación virtual con labview y analog discovery 3. National Instrument.
+E011,T002,D002,Introducción de LabVIEW para ingeniería,Taller enfocado en introducción de labview para ingeniería. UACJ.
+E012,T002,D002,Minecraft aplicado a Circuitos Digitales,Taller enfocado en minecraft aplicado a circuitos digitales. IIT-DIEC.
+E013,T002,D002,"MULTISIM, Simulación de Circuitos  Electrónicos","Taller enfocado en multisim, simulación de circuitos  electrónicos. IIT-DIEC."
+E014,T002,D002,NetLogo,Taller enfocado en netlogo. Universidad Autónoma de Ciudad Juárez.
+E015,T002,D002,Programación dinámica y abstracción de datos con C/C++,Taller enfocado en programación dinámica y abstracción de datos con c/c++. UACJ.
+E016,T002,D002,Taller para el manejo de la tarjeta de desarrollo ESP32,Taller enfocado en taller para el manejo de la tarjeta de desarrollo esp32. Universidad Autónoma de Ciudad Juárez.
+E017,T004,D002,Biorally,Concurso enfocado en biorally. uacj.
+E018,T007,D002,Cursos NetAcad Cisco: Fundamentos de IA: Lenguaje y visión en la IA,Curso enfocado en cursos netacad cisco: fundamentos de ia: lenguaje y visión en la ia. UACJ.
+E019,T011,D002,La función de la hidrología para enfrentar los retos actuales en los recursos hídricos,Conferencia magistral enfocado en la función de la hidrología para enfrentar los retos actuales en los recursos hídricos. Arizona State University.
+E020,T002,D002,Laboratorio de Electrónica Flexible UACJ Inspira el futuro en la Ciencia: Apartado Biosensores,Taller enfocado en laboratorio de electrónica flexible uacj inspira el futuro en la ciencia: apartado biosensores. UACJ.
+E021,T002,D002,Programación básica de microcontroladores,Taller enfocado en programación básica de microcontroladores. UACJ.
+E022,T002,D002,Taller de empleabilidad RUBA: CV tu carta de presentación,Taller enfocado en taller de empleabilidad ruba: cv tu carta de presentación. RUBA.
+E023,T001,D002,"Conectados para Crecer: Tecnología, Motivación y Liderazgo en el Mundo Actual","Conferencia enfocado en conectados para crecer: tecnología, motivación y liderazgo en el mundo actual. UACJ."
+E024,T010,D002,"Promoción de la Revista ""Ciencia Vital""","Otra enfocado en promoción de la revista ""ciencia vital"". UACJ."
+E025,T002,D002,De la idea al biomaterial: diseña el material que podría cambiar la medicina.,Taller enfocado en de la idea al biomaterial: diseña el material que podría cambiar la medicina.. UACJ.
+E026,T001,D001,"¿Cuáles son tus ""chances""? La física la y la filosofía de la probabilidad.","Conferencia enfocado en ¿cuáles son tus ""chances""? la física la y la filosofía de la probabilidad.. Alamito STREAM Center/PSI Philosophical Systems Institute."
+E027,T001,D002,Holografía,Conferencia enfocado en holografía. Universidad Autónoma de Ciudad Juárez.
+E028,T001,D002,Meteorología Aeronáutica,Conferencia enfocado en meteorología aeronáutica. UACJ.
+E029,T001,D002,"Presentación de Grupo ByNEF , título de la charla: ""Conoce el Laboratorio de Electrónica Flexible UACJ: Grupo de Investigación ByNEF""","Conferencia enfocado en presentación de grupo bynef , título de la charla: ""conoce el laboratorio de electrónica flexible uacj: grupo de investigación bynef"". UACJ."
+E030,T002,D002,Taller de geometría simplectica,Taller enfocado en taller de geometría simplectica. Universidad de Colima.
+E031,T004,D004,Concurso para el diseño del logotipo representativo de Ing. Civil,Concurso enfocado en concurso para el diseño del logotipo representativo de ing. civil. UACJ.
+E032,T011,D002,Sensado del entorno a múltiples escalas: de sensores a drones y plataformas robóticas inteligentes,Conferencia magistral enfocado en sensado del entorno a múltiples escalas: de sensores a drones y plataformas robóticas inteligentes. PhD.
+E033,T010,D002,"Conferencia por parte de CBU: Ingenierios, Emociones y Salud Mental","Otra enfocado en conferencia por parte de cbu: ingenierios, emociones y salud mental. UACJ."
+E034,T002,D002,Introducción a LaTeX para ingeniería: Reportes profesionales y automatización,Taller enfocado en introducción a latex para ingeniería: reportes profesionales y automatización. UACJ.
+E035,T001,D002,La IA que Diseña IA: Una Perspectiva de Optimización Multiobjetivo en NAS,Conferencia enfocado en la ia que diseña ia: una perspectiva de optimización multiobjetivo en nas. UACJ.
+E036,T001,D002,Detección de estrés por medio de video con inteligencia artificial,Conferencia enfocado en detección de estrés por medio de video con inteligencia artificial. UACJ.
+E037,T001,D002,Motor eléctrico (brushless) impreso en 3D,Conferencia enfocado en motor eléctrico (brushless) impreso en 3d. UACJ.
+E038,T002,D002,Dinámica de fluídos computacional utilizando ANSYS FLUENT,Taller enfocado en dinámica de fluídos computacional utilizando ansys fluent. UACJ.
+E039,T002,D002,Introducción a modelos predictivos educativos con KNIME,Taller enfocado en introducción a modelos predictivos educativos con knime. UACJ.
+E040,T002,D002,Primeros Pasos en la Divulgación Científica: Del Aula a la Sociedad,Taller enfocado en primeros pasos en la divulgación científica: del aula a la sociedad. Universidad Autónoma de San Luis Potosí.
+E041,T001,D002,Sostenibilidad en la industria de la palma de aceite en Colombia,Conferencia enfocado en sostenibilidad en la industria de la palma de aceite en colombia. Unidades Tecnológicas de Santander.
+E042,T010,D002,Inicio de Rally de Ingeniería: Competencias de preguntas de Ingeniería,Otra enfocado en inicio de rally de ingeniería: competencias de preguntas de ingeniería. UACJ.
+E043,T018,D002,Liderando la Transformación Digital basada en IA: Tecnologías Emergentes y Soluciones para las Organizaciones,FOSEEI enfocado en liderando la transformación digital basada en ia: tecnologías emergentes y soluciones para las organizaciones. UACJ.
+E044,T002,D002,Sistemas de nanomedicina con tocoles y fenoles obtenidos de frutos secos,Taller enfocado en sistemas de nanomedicina con tocoles y fenoles obtenidos de frutos secos. UACJ.
+E045,T004,D002,Ingeniería en acción:  la mejor evidencia de nuestros atributos de egreso,Concurso enfocado en ingeniería en acción:  la mejor evidencia de nuestros atributos de egreso. UACJ.
+E046,T002,D002,Modelo AERMOD - Evaluando el impacto de las emisiones atmosféricas,Taller enfocado en modelo aermod - evaluando el impacto de las emisiones atmosféricas. CECATEV.
+E047,T004,D002,Diseño de empaque para proteger un huevo ordinario,Concurso enfocado en diseño de empaque para proteger un huevo ordinario. UACJ.
+E048,T010,D002,"Promoción de la Revista ""Ciencia Vital""","Otra enfocado en promoción de la revista ""ciencia vital"". UACJ."
+E049,T002,D002,Control de motores de CD mediante arduino IDE y Matlab,Taller enfocado en control de motores de cd mediante arduino ide y matlab. Universidad Autónoma de Ciudad Juárez.
+E050,T002,D002,Logística y Cadena de Suministros,Taller enfocado en logística y cadena de suministros. Universidad Autónoma de Ciudad Juárez.
+E051,T002,D002,Programación VHDL,Taller enfocado en programación vhdl. IIT-DIEC.
+E052,T002,D002,Redes neuronales convolucionales para reconocimiento de imágenes,Taller enfocado en redes neuronales convolucionales para reconocimiento de imágenes. UACJ.
+E053,T002,D002,Sistema para la identificación de sustancias químicas peligrosas (NOM-018-STPS-2015),Taller enfocado en sistema para la identificación de sustancias químicas peligrosas (nom-018-stps-2015). Ephrata Servicios Integrales de Salud y Seguridad Ocupacional.
+E054,T001,D002,¿Para qué tocar pasto si puedes hacer algoritmos? : Club de Algoritmia UACJ 2026,Conferencia enfocado en ¿para qué tocar pasto si puedes hacer algoritmos? : club de algoritmia uacj 2026. UACJ.
+E055,T001,D002,"Geología de Campo en una sección de los Himalayas, región de Bután.","Conferencia enfocado en geología de campo en una sección de los himalayas, región de bután.. Universidad de Texas, El Paso (UTEP)."
+E056,T001,D002,Novedades en calidad de la energía,Conferencia enfocado en novedades en calidad de la energía. UACJ.
+E057,T018,D002,De desarrollador a DevSecOps: Construyendo Software seguro en el mundo real,FOSEEI enfocado en de desarrollador a devsecops: construyendo software seguro en el mundo real. UACJ.
+E058,T006,D002,Presentación de Proyectos de titulación de Sistemas Digitales (Parte1),Presentación enfocado en presentación de proyectos de titulación de sistemas digitales (parte1). UACJ.
+E059,T010,D002,Competencia de Catapultas trebuchete,Otra enfocado en competencia de catapultas trebuchete. UACJ.
+E060,T007,D002,Introducción a la programación en ambientes IOS.,Curso enfocado en introducción a la programación en ambientes ios.. UACJ.
+E061,T007,D002,"TinyML e inteligencia embebida: Microcontroladores, aprendizaje en el dispositivo y sistemas de sensado inteligente","Curso enfocado en tinyml e inteligencia embebida: microcontroladores, aprendizaje en el dispositivo y sistemas de sensado inteligente. UACJ."
+E062,T018,D002,Toma de decisiones multicriterio en Ingeniería de Software: Aplicaciones reales y desafios,FOSEEI enfocado en toma de decisiones multicriterio en ingeniería de software: aplicaciones reales y desafios. UACJ.
+E063,T002,D002,Escritura de documentos académicos y científicos utilizando LATEX,Taller enfocado en escritura de documentos académicos y científicos utilizando latex. Universidad Autónoma de Ciudad Juárez.
+E064,T002,D002,NetLogo,Taller enfocado en netlogo. Universidad Autónoma de Ciudad Juárez.
+E065,T018,D002,Mejores prácticas en diseños de PCB’s,FOSEEI enfocado en mejores prácticas en diseños de pcb’s. UACJ.
+E066,T004,D002,Concurso de Robots Seguidores de Línea,Concurso enfocado en concurso de robots seguidores de línea. UACJ.
+E067,T007,D002,Diseño de redes eléctricas en media y baja tensión,Curso enfocado en diseño de redes eléctricas en media y baja tensión. UACJ.
+E068,T002,D002,Análisis de movimiento de mecanismos con SolidWorks,Taller enfocado en análisis de movimiento de mecanismos con solidworks. Instituto Tecnológico de Sonora.
+E069,T002,D002,Power BI: Evolucionando al Excel,"Taller enfocado en power bi: evolucionando al excel. externa, PD."
+E070,T002,D002,Programación de Drones DJI con Python,Taller enfocado en programación de drones dji con python. Universidad Autónoma de Ciudad Juárez.
+E071,T001,D002,"¿Por qué fallan los dispositivos biomédicos? Análisis de falla, materiales y casos reales","Conferencia enfocado en ¿por qué fallan los dispositivos biomédicos? análisis de falla, materiales y casos reales. ¿Por qué fallan los dispositivos biomédicos? Análisis de falla, materiales y casos reales."
+E072,T001,D002,"¿Por qué fallan los dispositivos biomédicos? Análisis de falla, materiales y casos reales.","Conferencia enfocado en ¿por qué fallan los dispositivos biomédicos? análisis de falla, materiales y casos reales.. Jhonson & Jhonson."
+E073,T001,D002,Metodologías Efectivas para la Solución de Problemas en la Industria Maquiladora,Conferencia enfocado en metodologías efectivas para la solución de problemas en la industria maquiladora. Lear.
+E074,T001,D002,Presentación del Comité Estudiantil CIMECH-UACJ,Conferencia enfocado en presentación del comité estudiantil cimech-uacj. UACJ.
+E075,T009,D002,Juárez Antiguo,Cultural enfocado en juárez antiguo. UACJ.
+E076,T018,D002,Sistema de monitoreo de glucosa mediante un dispositivo biosensor.,FOSEEI enfocado en sistema de monitoreo de glucosa mediante un dispositivo biosensor.. UACJ.
+E077,T006,D002,Presentación de Proyectos de titulación (Parte2),Presentación enfocado en presentación de proyectos de titulación (parte2). UACJ.
+E078,T018,D002,Ciberseguridad: de las amenazas a las oportunidades,FOSEEI enfocado en ciberseguridad: de las amenazas a las oportunidades. UACJ.
+E079,T018,D002,Introducción sobre agentes de I A de código abierto: Automatizando el desarrollo de software,FOSEEI enfocado en introducción sobre agentes de i a de código abierto: automatizando el desarrollo de software. UACJ.
+E080,T001,D002,Introducción roles capitulo estudiantil IISE,Conferencia enfocado en introducción roles capitulo estudiantil iise. IISE.
+E081,T006,D002,Presentación de Proyectos de titulación (Parte 3),Presentación enfocado en presentación de proyectos de titulación (parte 3). UACJ.
+E082,T002,D002,Introducción a la Inteligencia Artificial para Sistemas Mínimos,Taller enfocado en introducción a la inteligencia artificial para sistemas mínimos. Universidad Autónoma de Ciudad Juárez.
+E083,T010,D002,Pendiente,Otra enfocado en pendiente. CENALTEC.
+E084,T008,D002,Torneo relámpago de Ajedrez (Sistema suizo),Deportiva enfocado en torneo relámpago de ajedrez (sistema suizo). Coord. Deportes.
+E085,T008,D002,Torneo relámpago de Ping Pong,Deportiva enfocado en torneo relámpago de ping pong. UACJ.
+E086,T014,D002,Expo Empleos,Exposicion enfocado en expo empleos. Vinculación.
+E087,T001,D002,"Aprender de la naturaleza: láseres, superficies funcionales y biomimética","Conferencia enfocado en aprender de la naturaleza: láseres, superficies funcionales y biomimética. UACJ."
+E088,T001,D002,Conferencia: NanomedicinaUACJ 15 años de pequeños sistemas y grandes historias.,Conferencia enfocado en conferencia: nanomedicinauacj 15 años de pequeños sistemas y grandes historias.. UACJ.
+E089,T001,D002,Diseñando un andamio biomédico: manufactura aditiva aplicada a biomateriales regenerativos,Conferencia enfocado en diseñando un andamio biomédico: manufactura aditiva aplicada a biomateriales regenerativos. Universidad Autónoma de Ciudad Juárez.
+E090,T001,D002,El desarrollo sostenible en la Ingeniería,Conferencia enfocado en el desarrollo sostenible en la ingeniería. Universidad Autónoma de Ciudad Juárez.
+E091,T001,D001,Gastrofísica-El Lado Delicioso de la Ciencia,Conferencia enfocado en gastrofísica-el lado delicioso de la ciencia. UACJ.
+E092,T001,D002,Seguridad Aérea,Conferencia enfocado en seguridad aérea. UACJ.
+E093,T001,D002,Sistema de asistencia biométrico,Conferencia enfocado en sistema de asistencia biométrico. UACJ.
+E094,T002,D002,Competencias Profesionales,Taller enfocado en competencias profesionales. FASTENAL.
+E095,T002,D002,Taller de Geometría diferencial,Taller enfocado en taller de geometría diferencial. Universidad de Sonora.
+E096,T002,D002,Curso Básico de Excel para estudiantes del PLIA,Taller enfocado en curso básico de excel para estudiantes del plia. Universidad Autónoma de Ciudad Juárez.
+E097,T001,D002,¿Qué haces cuando nadie está mirando? Liderazgo y cultura de calidad en el mundo real,Conferencia enfocado en ¿qué haces cuando nadie está mirando? liderazgo y cultura de calidad en el mundo real. UACJ.
+E098,T001,D002,Herramientas de IA para el Ingeniero rumbo al 2030,Conferencia enfocado en herramientas de ia para el ingeniero rumbo al 2030. UACJ.
+E099,T001,D002,Power skills: Habilidades esenciales en la ingeniería,Conferencia enfocado en power skills: habilidades esenciales en la ingeniería. UACJ.
+E100,T001,D002,Fenómenos cuánticos en el límite de la miniaturización,Conferencia enfocado en fenómenos cuánticos en el límite de la miniaturización. UACJ.
+E101,T007,D002,Principios de funcionamiento de los modelos de lenguaje de gran escala (LLMs),Curso enfocado en principios de funcionamiento de los modelos de lenguaje de gran escala (llms). UACJ.
+E102,T001,D002,¿Diseñado para funcionar ¿pero diseñado para llegar?,Conferencia enfocado en ¿diseñado para funcionar ¿pero diseñado para llegar?. Cordis.
+E103,T001,D002,"Avances proyecto de investigacion,BiomIT/ Biomimética, aplicaciones en la Ing. Biomédica.","Conferencia enfocado en avances proyecto de investigacion,biomit/ biomimética, aplicaciones en la ing. biomédica.. UACJ."
+E104,T001,D002,Conferencia 2,Conferencia enfocado en conferencia 2. Vinculación.
+E105,T001,D002,Desarrollo de plataformas de laboratorio mediante herramienta CAD e impresión 3D,Conferencia enfocado en desarrollo de plataformas de laboratorio mediante herramienta cad e impresión 3d. Instituto Tecnológico de Sonora.
+E106,T001,D002,Efecto de la incorporación de hidroxiapatita en las propiedades mecánicas de esferas huecas de α/Ba-β-Al2O3/CaAl12O19,Conferencia enfocado en efecto de la incorporación de hidroxiapatita en las propiedades mecánicas de esferas huecas de α/ba-β-al2o3/caal12o19. Instituto de Ciencias Biomédicas UACJ.
+E107,T001,D002,IAs para la investigación científica,Conferencia enfocado en ias para la investigación científica. Universidad Autónoma de Ciudad Juárez.
+E108,T001,D002,Introducción de una nueva superaleación base níquel para fabricación de componentes para el sector aeroespacial y de generación de energía,Conferencia enfocado en introducción de una nueva superaleación base níquel para fabricación de componentes para el sector aeroespacial y de generación de energía. Universidad Autónoma de Nuevo León.
+E109,T001,D002,Introducción roles capitulo estudiantil IISE,Conferencia enfocado en introducción roles capitulo estudiantil iise. IISE.
+E110,T009,D002,Ciclo de Cine,Cultural enfocado en ciclo de cine. UACJ.
+E111,T018,D002,Diseño de proteínas: inteligencia artificial para el diseño de nuevos antivirales,FOSEEI enfocado en diseño de proteínas: inteligencia artificial para el diseño de nuevos antivirales. UACJ.
+E112,T018,D002,¿Puede la inteligencia artificial crear sus propias etiquetas?,FOSEEI enfocado en ¿puede la inteligencia artificial crear sus propias etiquetas?. UACJ.
+E113,T001,D002,De la universidad a la industria: Construye hoy las bases del ingeniero que quieres ser,Conferencia enfocado en de la universidad a la industria: construye hoy las bases del ingeniero que quieres ser. UACJ.
+E114,T018,D002,Alineando cerebros: ingeniería detrás de un mapa cerebral. Registro de volúmenes y mediana geométrica,FOSEEI enfocado en alineando cerebros: ingeniería detrás de un mapa cerebral. registro de volúmenes y mediana geométrica. UACJ.
+E115,T004,D002,Carrera del Desierto,Concurso enfocado en carrera del desierto. UACJ.
+E116,T001,D002,Grupo de investigacion BiomedAI: IA con aplicaciones biomédicas./De datos no etiquetados a la detección de ictus: aprendizaje auto-supervisado en imágenes médicas.,Conferencia enfocado en grupo de investigacion biomedai: ia con aplicaciones biomédicas./de datos no etiquetados a la detección de ictus: aprendizaje auto-supervisado en imágenes médicas.. UACJ.
+E117,T001,D002,Nearshoring y Dark Factories,Conferencia enfocado en nearshoring y dark factories. Universidad Politecnica de Baja California.
+E118,T001,D002,"Surface Polariton, qué es y por qué es importante","Conferencia enfocado en surface polariton, qué es y por qué es importante. UACJ."
+E119,T018,D002,Desarrollo de un modelo de aprendizaje automático para la clasificación de datos de expresión génica de alta dimensionalidad,FOSEEI enfocado en desarrollo de un modelo de aprendizaje automático para la clasificación de datos de expresión génica de alta dimensionalidad. UACJ.
+E120,T005,D002,Estabilidad asintótica del amor,Ponencia enfocado en estabilidad asintótica del amor. UACJ.
+E121,T001,D002,Presentación del Capítulo Estudiantil SEG Paso del Norte,Conferencia enfocado en presentación del capítulo estudiantil seg paso del norte. UACJ.
+E122,T001,D002,Diseño e implementación de bionanomateriales a base de fique para la depuración de aguas residuales de la industria textil,Conferencia enfocado en diseño e implementación de bionanomateriales a base de fique para la depuración de aguas residuales de la industria textil. Unidades Tecnológicas de Santander.
+E123,T001,D002,"Inspección y control de calidad en soldadura: Fundamentos, procedimientos y oportunidades profesionales para el ingeniero","Conferencia enfocado en inspección y control de calidad en soldadura: fundamentos, procedimientos y oportunidades profesionales para el ingeniero. ARBIE CONSULTORES."
+E124,T010,D002,Competencia de Seguidores de Linea,Otra enfocado en competencia de seguidores de linea. UACJ.
+E125,T018,D002,Clasificación de señales EEG usando aprendizaje profundo,FOSEEI enfocado en clasificación de señales eeg usando aprendizaje profundo. UACJ.
+E126,T002,D002,Taller de Procesamiento de Lenguaje Natural,Taller enfocado en taller de procesamiento de lenguaje natural. UACJ.
+E127,T001,D002,"Del aula a la Minería: experiencias, retos y oportunidades profesionales","Conferencia enfocado en del aula a la minería: experiencias, retos y oportunidades profesionales. First Majestic Silver Corp."
+E128,T018,D002,Modelado Monte Carlo de un Sensor Óptico de Glucosa,FOSEEI enfocado en modelado monte carlo de un sensor óptico de glucosa. UACJ.
+E129,T001,D002,Beyond the screen: Digital twins in E/E systems design and manufacturing,Conferencia enfocado en beyond the screen: digital twins in e/e systems design and manufacturing. SIEMENS.
+E130,T001,D002,por definir,Conferencia enfocado en por definir. Siemens.
+E131,T004,D002,Juego interactivo Logistica,Concurso enfocado en juego interactivo logistica. Universidad Autónoma de Ciudad Juárez.
+E132,T009,D002,Ciclo de Cine,Cultural enfocado en ciclo de cine. UACJ.
+E133,T002,D002,Ingeniería de Costos: Modelado de presupuestos programables,Taller enfocado en ingeniería de costos: modelado de presupuestos programables. JMAS.
+E134,T002,D002,Monitorización Clínica y Simulación de Paciente - Gpo A,Taller enfocado en monitorización clínica y simulación de paciente - gpo a. UACJ.
+E135,T002,D002,Optimización Multiobjetivo y Algoritmos Evolutivos (MOEAs): Fundamentos e Implementación con IA,Taller enfocado en optimización multiobjetivo y algoritmos evolutivos (moeas): fundamentos e implementación con ia. UACJ.
+E136,T001,D002,"Atlas Cerebrales: Fundamentos, Construcción y Aplicaciones en Neuroimagen.","Conferencia enfocado en atlas cerebrales: fundamentos, construcción y aplicaciones en neuroimagen.. UACJ."
+E137,T001,D002,"El arte de la invocación del software: Git, Infraestructura, Automatización y Despliegue","Conferencia enfocado en el arte de la invocación del software: git, infraestructura, automatización y despliegue. UACJ."
+E138,T001,D002,"Libro ""Smart Cities""","Conferencia enfocado en libro ""smart cities"". Universidad Autónoma de Ciudad Juárez."
+E139,T001,D002,SMT en la Industria de Ciudad Juárez,Conferencia enfocado en smt en la industria de ciudad juárez. UACJ.
+E140,T018,D002,Análisis comparativo entre diferentes micrófonos utilizados para la detección del Fonocardiograma en sistemas portables,FOSEEI enfocado en análisis comparativo entre diferentes micrófonos utilizados para la detección del fonocardiograma en sistemas portables. UACJ.
+E141,T006,D002,Proyectos de Titulación de Sistemas Digitales (parte1),Presentación enfocado en proyectos de titulación de sistemas digitales (parte1). IIT.
+E142,T018,D002,Control de motores por medio de Variadores de Frecuencia y su relación con la calidad de la energia,FOSEEI enfocado en control de motores por medio de variadores de frecuencia y su relación con la calidad de la energia. UACJ.
+E143,T005,D004,Introducción a la valuación,Ponencia enfocado en introducción a la valuación. Colegio de Ingenieros Civiles.
+E144,T018,D002,Eligiendo el cerebro correcto: cómo seleccionar el microcontrolador ideal para tu proyecto.,FOSEEI enfocado en eligiendo el cerebro correcto: cómo seleccionar el microcontrolador ideal para tu proyecto.. UACJ.
+E145,T004,D002,Concurso Robots minisumo,Concurso enfocado en concurso robots minisumo. UACJ.
+E146,T002,D001,"""IA y diseño de experiencias de aprendizaje en matemáticas Ética y buenas prácticas para los docentes""","Taller enfocado en ""ia y diseño de experiencias de aprendizaje en matemáticas ética y buenas prácticas para los docentes"". UACJ."
+E147,T002,D002,Monitorización Clínica y Simulación de Paciente - Grupo B,Taller enfocado en monitorización clínica y simulación de paciente - grupo b. UACJ.
+E148,T001,D002,Caracterización de un filtro LCL para la reducción de armónicos en la integración de fuentes de energía renovable a la red eléctrica.,Conferencia enfocado en caracterización de un filtro lcl para la reducción de armónicos en la integración de fuentes de energía renovable a la red eléctrica.. UACJ.
+E149,T001,D002,Data Centers la Tecnología del Futuro,Conferencia enfocado en data centers la tecnología del futuro. FLUTEC.
+E150,T001,D002,De la Universidad a la Planta,Conferencia enfocado en de la universidad a la planta. APIC's.
+E151,T001,D002,De Maquiladora a Fábrica Inteligente: El Nuevo Ingeniero que Exige la Frontera,Conferencia enfocado en de maquiladora a fábrica inteligente: el nuevo ingeniero que exige la frontera. Hèrcules Juárez.
+E152,T001,D002,El futuro se construye con preguntas incómodas,Conferencia enfocado en el futuro se construye con preguntas incómodas. Egresada del Programa de Doctorado en Tecnología UACJ.
+E153,T001,D002,Experiencias de los estudiantes de Ing. en Geociencias en veranos de investigación y estancias de movilidad nacional e internacional.,Conferencia enfocado en experiencias de los estudiantes de ing. en geociencias en veranos de investigación y estancias de movilidad nacional e internacional.. UACJ.
+E154,T001,D002,Ing. Biomedica en la industria: Enfoque en Ingeniería de calidad,Conferencia enfocado en ing. biomedica en la industria: enfoque en ingeniería de calidad. UACJ.
+E155,T018,D002,"Fusión multibiométrica en el borde: cara, huella y voz en tiempo real","FOSEEI enfocado en fusión multibiométrica en el borde: cara, huella y voz en tiempo real. UACJ."
+E156,T005,D002,De un Hackathon al mundo real: Construyendo tu propia Startup Tech,Ponencia enfocado en de un hackathon al mundo real: construyendo tu propia startup tech. UACJ.
+E157,T006,D002,Proyectos de Titulación de Sistemas Digitales (parte 2),Presentación enfocado en proyectos de titulación de sistemas digitales (parte 2). IIT-DIEC.
+E158,T018,D002,Identificación de vehículos con ML,FOSEEI enfocado en identificación de vehículos con ml. UACJ.
+E159,T005,D002,Análisis predictivo y toma de decisiones mediante la ciencia de datos.,Ponencia enfocado en análisis predictivo y toma de decisiones mediante la ciencia de datos.. UACJ.
+E160,T001,D002,Mentor Tech AC,Conferencia enfocado en mentor tech ac. Pendiente.
+E161,T018,D002,Diseño e instrumentación de wearables biomecánicos de bajo costo,FOSEEI enfocado en diseño e instrumentación de wearables biomecánicos de bajo costo. UACJ.
+E162,T006,D002,Proyectos de Titulación de Sistemas Digitales (parte 3),Presentación enfocado en proyectos de titulación de sistemas digitales (parte 3). IIT-DIEC.
+E163,T004,D002,Concurso Estatal de Automatización,Concurso enfocado en concurso estatal de automatización. uacj/festo.
+E164,T010,D002,Competencia de Volibol,Otra enfocado en competencia de volibol. UACJ.
+E165,T009,D002,Jornada de Pueblos Originarios,Cultural enfocado en jornada de pueblos originarios. UACJ.
+E166,T008,D002,Carrera Pedestre,Deportiva enfocado en carrera pedestre. UACJ.
+E167,T017,D002,Certificación Internacional Yellow Belt,Capacitación enfocado en certificación internacional yellow belt. Personal Academy.
+E168,T002,D002,Taller para el manejo de la tarjeta de desarrollo ESP32,Taller enfocado en taller para el manejo de la tarjeta de desarrollo esp32. Universidad Autónoma de Ciudad Juárez.
+E169,T001,D002,"""FEMTECH, una Industria en Crecimiento y Regulaciones en la Industria Medica","Conferencia enfocado en ""femtech, una industria en crecimiento y regulaciones en la industria medica. ICATECH."
+E170,T001,D001,El problema de los tres cuerpos: Física fuera de control,Conferencia enfocado en el problema de los tres cuerpos: física fuera de control. UACJ-NMSU.
+E171,T001,D002,Evolución de Energías Limpias,Conferencia enfocado en evolución de energías limpias. Facultad de Ciencias Químicas/Universidad Autónoma de Nuevo León.
+E172,T007,D002,Fundamentos de IA: Bases para comprender la IA,Curso enfocado en fundamentos de ia: bases para comprender la ia. UACJ.
+E173,T007,D002,RCP y Manejo de Extintores,Curso enfocado en rcp y manejo de extintores. Universidad Autónoma de Ciudad Juárez.
+E174,T005,D002,"De la idea al logro: Conoce, plantea y alcanza tu titulación","Ponencia enfocado en de la idea al logro: conoce, plantea y alcanza tu titulación. UACJ."
+E175,T001,D002,Ingeniería aplicada a desarrollos habitacionales,Conferencia enfocado en ingeniería aplicada a desarrollos habitacionales. RUBA.
+E176,T002,D002,Power skills: Practicando las habilidades esenciales en la Ingeniería,Taller enfocado en power skills: practicando las habilidades esenciales en la ingeniería. UACJ.
+E177,T001,D002,De la industria automotriz a la movilidad: transformación del sector y nuevos requerimientos de talento en la región,Conferencia enfocado en de la industria automotriz a la movilidad: transformación del sector y nuevos requerimientos de talento en la región. Clúster Automotriz de Chihuahua.
+E178,T001,D001,Ingeniería de acoplamiento fuerte en silicio poroso a temperatura ambiente. De condensados de polaritones a polaritones de TAMM: tecnologías cuánticas y sensado,Conferencia enfocado en ingeniería de acoplamiento fuerte en silicio poroso a temperatura ambiente. de condensados de polaritones a polaritones de tamm: tecnologías cuánticas y sensado. Instituto de Física de la UNAM.
+E179,T001,D002,Innovación Conectando Nodos y Fondos de Inversión,Conferencia enfocado en innovación conectando nodos y fondos de inversión. ICATECH.
+E180,T001,D002,Introducción a la computación empresarial con IBM Z,Conferencia enfocado en introducción a la computación empresarial con ibm z. UACJ.
+E181,T001,D001,No-Localidad Cuántica y Relatividad: Reflexiones filosóficas de la física.,Conferencia enfocado en no-localidad cuántica y relatividad: reflexiones filosóficas de la física.. Baylor University.
+E182,T001,D002,Recubrimiento Superhidrofóbico para reducir la adhesión bacteriana: una aproximación desde la nanotecnología.,Conferencia enfocado en recubrimiento superhidrofóbico para reducir la adhesión bacteriana: una aproximación desde la nanotecnología.. UACJ.
+E183,T018,D002,Calidad de la energía eléctrica: retos y soluciones con machine learning,FOSEEI enfocado en calidad de la energía eléctrica: retos y soluciones con machine learning. UACJ.
+E184,T005,D002,Numerical and Experimental Investigation of Hypersonic Fin Junction Flows,Ponencia enfocado en numerical and experimental investigation of hypersonic fin junction flows. NMSU.
+E185,T004,D002,"Crea, Innova, Emprende","Concurso enfocado en crea, innova, emprende. UACJ."
+E186,T018,D002,Atlas Cerebrales en la detección del autismo,FOSEEI enfocado en atlas cerebrales en la detección del autismo. UACJ.
+E187,T001,D002,Entre Pantallas y Emociones: El Impacto de la Tecnología en la Salud Mental,Conferencia enfocado en entre pantallas y emociones: el impacto de la tecnología en la salud mental. UACJ.
+E188,T018,D002,Medición de impedancia eléctrica en materiales higroscópicos,FOSEEI enfocado en medición de impedancia eléctrica en materiales higroscópicos. UACJ.
+E189,T001,D002,"Del Aula a la Industria: Cómo las Prensas Servo Están Transformando la Manufactura Inteligente”,","Conferencia enfocado en del aula a la industria: cómo las prensas servo están transformando la manufactura inteligente”,. SEYI Méxic."
+E190,T001,D002,Ing. Biomedica en la industria: Validaciones de equipos y líneas de producción para producir catéteres de corazón./ Aprendizaje Autosupervisado en imagen médica.,Conferencia enfocado en ing. biomedica en la industria: validaciones de equipos y líneas de producción para producir catéteres de corazón./ aprendizaje autosupervisado en imagen médica.. UACJ.
+E191,T005,D002,Compressibility Effects on Dynamic Stall for Pitching NACA0012 Airfoil at Low Reynolds Number”.,Ponencia enfocado en compressibility effects on dynamic stall for pitching naca0012 airfoil at low reynolds number”.. NMSU.
+E192,T002,D002,Taller de Minitab,Taller enfocado en taller de minitab. UACJ.
+E193,T001,D002,Tratamientos térmicos de los aceros,Conferencia enfocado en tratamientos térmicos de los aceros. UACJ.
+E194,T001,D002,Verificación de técnicas analíticas (espectofotometria para la matriz agua),Conferencia enfocado en verificación de técnicas analíticas (espectofotometria para la matriz agua). Unidades Tecnológicas de Santander.
+E195,T005,D002,"Gestión de riesgos, seguros y fianzas: Herramientas financieras para el ejercicio profesional de la ingeniería","Ponencia enfocado en gestión de riesgos, seguros y fianzas: herramientas financieras para el ejercicio profesional de la ingeniería. ARBIE CONSULTORES."
+E196,T001,D002,De la ingeniería al taller (Manufacctura de un vehículo Baja SAE),Conferencia enfocado en de la ingeniería al taller (manufacctura de un vehículo baja sae). UACJ.
+E197,T001,D002,"Competencias laborales de interés, a la industria automotriz","Conferencia enfocado en competencias laborales de interés, a la industria automotriz. Johnson."
+E198,T001,D002,Soluciones Cerradas Exactas para la Vibración Libre de Placas Anulares Escalonadas,Conferencia enfocado en soluciones cerradas exactas para la vibración libre de placas anulares escalonadas. UACJ.
+E199,T004,D002,Robot Mini Sumo,Concurso enfocado en robot mini sumo. UACJ.
+E200,T001,D002,"Los sismos ocurridos en junio de 2026 en el estado de La Guaira, ubicado en la costa norte de Venezuela","Conferencia enfocado en los sismos ocurridos en junio de 2026 en el estado de la guaira, ubicado en la costa norte de venezuela. Universidad Central de Venezuela (UCV)."
+E201,T001,D002,NDVI en las áreas verdes públicas de Ciudad Juárez en 2019,Conferencia enfocado en ndvi en las áreas verdes públicas de ciudad juárez en 2019. Direccion de Parques y Jardines.
+E202,T002,D002,Salud Ocupacional,Taller enfocado en salud ocupacional. Ephrata Servicios Integrales de Salud y Seguridad Ocupacional.
+E203,T001,D002,Sensado óptico no invasivo aplicado a la estimación de glucosa en sangre,Conferencia enfocado en sensado óptico no invasivo aplicado a la estimación de glucosa en sangre. UACJ.
+E204,T005,D002,Active airfoil flow control based on reinforcement learning,Ponencia enfocado en active airfoil flow control based on reinforcement learning. NMSU.
+E205,T006,D002,¿Para qué tocar pasto si puedes hacer algoritmos? : Club de Algoritmia 2026,Presentación enfocado en ¿para qué tocar pasto si puedes hacer algoritmos? : club de algoritmia 2026. UACJ.
+E206,T001,D002,La importancia de la formación y regulación en la construcción,Conferencia enfocado en la importancia de la formación y regulación en la construcción. Asociación de Ingenieros y Arquitectos.
+E207,T018,D002,¿Podemos generar imagenes de perfusión cerebral sin utilizar contraste?,FOSEEI enfocado en ¿podemos generar imagenes de perfusión cerebral sin utilizar contraste?. UACJ.
+E208,T018,D001,Redes neuronales informadas por la física para la solución de ecuaciones diferenciales,FOSEEI enfocado en redes neuronales informadas por la física para la solución de ecuaciones diferenciales. UACJ.
+E209,T008,D002,Clase masiva de BARRE,Deportiva enfocado en clase masiva de barre. UACJ.
+E210,T001,D002,Cómo ser competitivo en el mundo de las tecnologías de la Información,Conferencia enfocado en cómo ser competitivo en el mundo de las tecnologías de la información. UACJ.
+E211,T001,D002,Designaciones de Materiales Incorrectas y sus Consecuencias,Conferencia enfocado en designaciones de materiales incorrectas y sus consecuencias. VWS Juárez.
+E212,T001,D002,"Ing. Biomedica en la industria: Environment, health and Safety","Conferencia enfocado en ing. biomedica en la industria: environment, health and safety. UACJ."
+E213,T001,D002,Por confirmar,Conferencia enfocado en por confirmar. JMAS.
+E214,T001,D002,Sistemas de Calidad en la Industria,Conferencia enfocado en sistemas de calidad en la industria. Global Audit.
+E215,T005,D002,"De la idea al logro: conoce, plantea y alcanza tu titulación","Ponencia enfocado en de la idea al logro: conoce, plantea y alcanza tu titulación. UACJ."
+E216,T018,D002,Escuchando a las máquinas: sensores inteligentes para el monitoreo de transformadores,FOSEEI enfocado en escuchando a las máquinas: sensores inteligentes para el monitoreo de transformadores. UACJ.
+E217,T018,D002,"UN CLIC Y PERDISTE, anatomía de un ataque de phishing moderno","FOSEEI enfocado en un clic y perdiste, anatomía de un ataque de phishing moderno. UACJ."
+E218,T004,D002,InnovaEmprende,Concurso enfocado en innovaemprende. Universidad Autónoma de Ciudad Juárez.
+E219,T010,D002,Competencia de Tochito bandera,Otra enfocado en competencia de tochito bandera. UACJ.
+E220,T008,D002,Torneo de Pádel,Deportiva enfocado en torneo de pádel. UACJ.
+E221,T012,D002,Visita a obra en fraccionamiento de RUBA,Visita de Campo enfocado en visita a obra en fraccionamiento de ruba. RUBA.
+E222,T015,D002,De la inteligencia a la superinteligencia artificial,Cátedra Patrimonial enfocado en de la inteligencia a la superinteligencia artificial. IPN.
+E223,T001,D002,Estrellas Michelin en el espacio: Lo que se está cocinando en la astronomía mundial y nacional.,Conferencia enfocado en estrellas michelin en el espacio: lo que se está cocinando en la astronomía mundial y nacional.. UACJ.
+E224,T001,D002,Más allá del prompt: creando soluciones con inteligencia artificial generativa,Conferencia enfocado en más allá del prompt: creando soluciones con inteligencia artificial generativa. Universidad Tecnológica Paso del Norte.
+E225,T011,D002,Inteligencia Artificial: Reto y Oportunidad del Siglo XXI,Conferencia magistral enfocado en inteligencia artificial: reto y oportunidad del siglo xxi. UNAM.
+E226,T008,D002,Torneo de E-GAMES,Deportiva enfocado en torneo de e-games. UACJ.
+E227,T001,D002,Blockchain: una tecnología para generar confianza,Conferencia enfocado en blockchain: una tecnología para generar confianza. UACJ.
+E228,T001,D002,Fuerzas corporales y su relación con las dimensiones antropometricas,Conferencia enfocado en fuerzas corporales y su relación con las dimensiones antropometricas. UACJ.
+E229,T001,D002,Análisis de riesgos en un área de hemodiálisis de un hospital de segundo nivel.,Conferencia enfocado en análisis de riesgos en un área de hemodiálisis de un hospital de segundo nivel.. UACJ.
+E230,T001,D002,Cómo blindar legalmente un startup,Conferencia enfocado en cómo blindar legalmente un startup. Notaría 18 de Ciudad Juárez.
+E231,T001,D002,El Diseñador Industrial y el Diseño,Conferencia enfocado en el diseñador industrial y el diseño. UACJ.
+E232,T001,D002,"Investigación en Manufactura Aditiva, perspectiva y avances!","Conferencia enfocado en investigación en manufactura aditiva, perspectiva y avances!. Universidad Autónoma de Nuevo Leon."
+E233,T001,D002,Materiales críticos y cadenas de suministro: el desafío de la industria del futuro,Conferencia enfocado en materiales críticos y cadenas de suministro: el desafío de la industria del futuro. Universidad Autónoma de Ciudad Juárez.
+E234,T001,D002,Upskilling: Como aplicar al Empleo de tus Sueños,Conferencia enfocado en upskilling: como aplicar al empleo de tus sueños. ICATECH.
+E235,T005,D002,Plática de divulgación,Ponencia enfocado en plática de divulgación. Universidad de Colima.
+E236,T001,D002,De la teoría a la práctica: la brecha que solo tú puedes cerrar,Conferencia enfocado en de la teoría a la práctica: la brecha que solo tú puedes cerrar. UACJ.
+E237,T001,D002,Diseño y Fabricación de Producto: Experiencia desde la Industria,Conferencia enfocado en diseño y fabricación de producto: experiencia desde la industria. UACJ.
+E238,T001,D002,Herramientas para Acelerar el Desarrollo de Navegación Autonoma (Tools to Accelerate Autonomous Driving Development),Conferencia enfocado en herramientas para acelerar el desarrollo de navegación autonoma (tools to accelerate autonomous driving development). UACJ.
+E239,T001,D002,"Equilibrio mineral fluído-roca del yacimiento del campo geotérmico las Tres Vírgenes, BCS: Nuevo geotermómetro Na/K","Conferencia enfocado en equilibrio mineral fluído-roca del yacimiento del campo geotérmico las tres vírgenes, bcs: nuevo geotermómetro na/k. Centro de Investigación Científica y de Educación Superior de Ensenada, Baja California."
+E240,T001,D002,Ingeniería Clínica: El Roll del Ingeniero Biomédico dentro del hospital,Conferencia enfocado en ingeniería clínica: el roll del ingeniero biomédico dentro del hospital. UACJ.
+E241,T013,D002,Conversatorio con Egresados del Programa de Licenciatura en Ingeniería Ambiental,Panel enfocado en conversatorio con egresados del programa de licenciatura en ingeniería ambiental. Universidad Autónoma de Ciudad Juárez.
+E242,T005,D002,Uso de IA (LLM) cómo punto de partida para el análisis contemporáneo de los contaminantes del aire en la ciudad de Durango,Ponencia enfocado en uso de ia (llm) cómo punto de partida para el análisis contemporáneo de los contaminantes del aire en la ciudad de durango. UACJ.
+E243,T001,D002,Uso de la IA para análisis de procesos de maquinado CNC de fresado,Conferencia enfocado en uso de la ia para análisis de procesos de maquinado cnc de fresado. Instituto de Ingeniería y Tecnología-UACJ.
+E244,T004,D002,"Concurso de Juegos de Mesa ""UNOversidad""","Concurso enfocado en concurso de juegos de mesa ""unoversidad"". UACJ."
+E245,T010,D002,Final de Rally  de convivencia,Otra enfocado en final de rally  de convivencia. UACJ.
+E246,T001,D002,De los BITS a los QUBITS: El camino hacia la IA cuántica,Conferencia enfocado en de los bits a los qubits: el camino hacia la ia cuántica. UACJ.
+E247,T001,D002,Más allá del prompt: creando soluciones con inteligencia artificial generativa.,Conferencia enfocado en más allá del prompt: creando soluciones con inteligencia artificial generativa.. UACJ.
+E248,T004,D002,Concurso “Ingenio Verde 2026”,Concurso enfocado en concurso “ingenio verde 2026”. Universidad Autónoma de Ciudad Juárez.
+E249,T004,D002,"Concurso de Videojuegos ""Gears of Wars 5""","Concurso enfocado en concurso de videojuegos ""gears of wars 5"". UACJ."
+E250,T004,D002,"Rally ""Búsqueda del Tesoro""","Concurso enfocado en rally ""búsqueda del tesoro"". UACJ."
+E251,T002,D002,Juego interactivo Logística,Taller enfocado en juego interactivo logística. Universidad Autónoma de Ciudad Juárez.
+E252,T001,D002,Ingenierias en la industria maquiladora,Conferencia enfocado en ingenierias en la industria maquiladora. Johnson.
+E253,T001,D002,La ingeniería invisible del automóvil,Conferencia enfocado en la ingeniería invisible del automóvil. (Prod Disegn and Analysis.
+E254,T001,D002,Aerogeneradores y su energía para transformar el viento en energía,Conferencia enfocado en aerogeneradores y su energía para transformar el viento en energía. Instituto de Ingeniería y Tecnología-UACJ.
+E255,T001,D002,Misión  NASA -SMAP,Conferencia enfocado en misión  nasa -smap. UACJ.
+E256,T001,D002,Retos y Oportunidades en el diseño de chips (Semiconductores),Conferencia enfocado en retos y oportunidades en el diseño de chips (semiconductores). UACJ.
+E257,T006,D002,Simposio de Nanomedicina (Parte 1),Presentación enfocado en simposio de nanomedicina (parte 1). UACJ.
+E258,T014,D002,Muestra de Divulgación Científica,Exposicion enfocado en muestra de divulgación científica. Universidad Autónoma de San Luis Potosí.
+E259,T005,D002,Excelencia profesional a través de la colegiación: Visión del ingeniero 2026,Ponencia enfocado en excelencia profesional a través de la colegiación: visión del ingeniero 2026. Colegio de Ingenieros Civiles de Ciudad Juárez.
+E260,T004,D002,Concurso de exploración de laberinto ,Concurso enfocado en concurso de exploración de laberinto . UACJ.
+E261,T004,D002,Estructuras Mecánicas,Concurso enfocado en estructuras mecánicas. Instituto de Ingeniería y Tecnología-UACJ.
+E262,T001,D002,"Generative AI, una visión hacia el futuro","Conferencia enfocado en generative ai, una visión hacia el futuro. UACJ."
+E263,T015,D002,IA motor de la industria 5.0,Cátedra Patrimonial enfocado en ia motor de la industria 5.0. IPN.
+E264,T016,D002,Retos laborales para los jóvenes egresados.,Mesa de diálogo enfocado en retos laborales para los jóvenes egresados.. Universidad Autónoma de Ciudad Juárez.
+E265,T013,D002,Una década construyendo el futuro: Voces de los egresados de Ingeiería en Materiales,Panel enfocado en una década construyendo el futuro: voces de los egresados de ingeiería en materiales. Varios.
+E266,T013,D002,Una década construyendo futuro: voces de nuestros egresados,Panel enfocado en una década construyendo futuro: voces de nuestros egresados. Johnson and Johnson e Integer.
+E267,T005,D002,"La influencia de China en el mercado automotriz, tendencias tecnológicas y estrategias occidentales","Ponencia enfocado en la influencia de china en el mercado automotriz, tendencias tecnológicas y estrategias occidentales. Universidad Autónoma de Ciudad Juárez."
+E268,T006,D002,Simposio de Nanomedicina (Parte 2),Presentación enfocado en simposio de nanomedicina (parte 2). UACJ.
+E269,T004,D002,Concurso de Mecanismos,Concurso enfocado en concurso de mecanismos. Instituto de Ingeniería y Tecnología-UACJ.
+E270,T001,D002,IA en soluciones tecnológicas aplicadas en la industria manufacturera,Conferencia enfocado en ia en soluciones tecnológicas aplicadas en la industria manufacturera. Livingston International.
+E271,T001,D002,In-Space Manufacturing,Conferencia enfocado en in-space manufacturing. Universidad Autónoma de Ciudad Juárez.
+E272,T001,D002,Descriptor molecular de reactividad: Un Enfoque de Química Computacional de Materiales para la Catálisis Heterogénea,Conferencia enfocado en descriptor molecular de reactividad: un enfoque de química computacional de materiales para la catálisis heterogénea. ICAT-UNAM.
+E273,T012,D002,"Explorando una porción del acuífero Conejos-Médanos utilizando métodos geofísicos, en búsqueda del reservorio de aguas subterráneas","Visita de Campo enfocado en explorando una porción del acuífero conejos-médanos utilizando métodos geofísicos, en búsqueda del reservorio de aguas subterráneas. Junta Municipal de Agua y Saneamiento (JMAS)."
+E274,T004,D004,Rally de Ingeniería Civil 2026,Concurso enfocado en rally de ingeniería civil 2026. UACJ Ing. Civil.
+E275,T006,D002,"UTEP - UACJ, Binational Research Network Fall Workshop","Presentación enfocado en utep - uacj, binational research network fall workshop. UTEP - UACJ."
+E276,T002,D002,Taller para el manejo de la tarjeta de desarrollo ESP32,Taller enfocado en taller para el manejo de la tarjeta de desarrollo esp32. Universidad Autónoma de Ciudad Juárez.
+E277,T012,D002,"Visita Relleno Sanitario, Cd. Juárez","Visita de Campo enfocado en visita relleno sanitario, cd. juárez. Universidad Autónoma de Ciudad Juárez."
+E278,T001,D002,Del catalizador estático al catalizador en operación: Estudios in-situ y operando de sistemas bimetálicos soportados,Conferencia enfocado en del catalizador estático al catalizador en operación: estudios in-situ y operando de sistemas bimetálicos soportados. IF-UNAM.
+E279,T004,D002,Programación de Microcontroladores,Concurso enfocado en programación de microcontroladores. UACJ.
+E280,T001,D002,Aleaciones para la refrigeración magnética a estado sólido,Conferencia enfocado en aleaciones para la refrigeración magnética a estado sólido. UACJ.
+E281,T004,D002,Catapultando al futuro: Diseño y construcción de catapultas.,Concurso enfocado en catapultando al futuro: diseño y construcción de catapultas.. UACJ.
+E282,T001,D002,Aleaciones y Materiales de Alta Entropía: Fundamentos y Aplicaciones Emergentes,Conferencia enfocado en aleaciones y materiales de alta entropía: fundamentos y aplicaciones emergentes. CINVESTAV-Zacatenco.
+E283,T001,D002,Del vidrio al cristal: la ciencia detrás de los vitrocerámicos,Conferencia enfocado en del vidrio al cristal: la ciencia detrás de los vitrocerámicos. UACJ.
+E284,T001,D002,Chemical and Electronic Properties of Energy Materials via Hard X-ray Photolectron Spectroscopy,Conferencia enfocado en chemical and electronic properties of energy materials via hard x-ray photolectron spectroscopy. Helmholtz Zentrum Berlin fur Materialen und Energie.
+E285,T001,D002,Síntesis y procesamiento de cerámicos: Qué hemos aprendido,Conferencia enfocado en síntesis y procesamiento de cerámicos: qué hemos aprendido. Instituto Politécnico Nacional - CDMX.
+E286,T001,D002,Evolución de las fases cristalinas en películas de Co-WO3 por tratamiento térmico en in-situ con radiación sincrotrón,Conferencia enfocado en evolución de las fases cristalinas en películas de co-wo3 por tratamiento térmico en in-situ con radiación sincrotrón. UACJ.
+E287,T004,D004,Concurso de Fotografía Ambiental,Concurso enfocado en concurso de fotografía ambiental. Universidad Autónoma de Ciudad Juárez.
+E288,T002,D002,Residuos Peligrosos,Taller enfocado en residuos peligrosos. Ephrata Servicios Integrales de Salud y Seguridad Ocupacional.
+E289,T001,D002,Análisis de propagación de ondas ultrasónicas para evaluación no destructiva,Conferencia enfocado en análisis de propagación de ondas ultrasónicas para evaluación no destructiva. Instituto Tecnológico Superior de Purísima del Rincón.
+E290,T006,D002,Presentación de Proyectos de titulación (Parte1),Presentación enfocado en presentación de proyectos de titulación (parte1). UACJ.
+E291,T007,D004,Curso de diseño estructural,Curso enfocado en curso de diseño estructural. COLEGIO DE ING. CIVILES.
+E292,T016,D002,"Ciencia, trabajo y sociedad: El triple efecto de los posgrados","Mesa de diálogo enfocado en ciencia, trabajo y sociedad: el triple efecto de los posgrados. UACJ."
+E293,T006,D002,Presentación de Proyectos de titulación (Parte 2),Presentación enfocado en presentación de proyectos de titulación (parte 2). UACJ.
